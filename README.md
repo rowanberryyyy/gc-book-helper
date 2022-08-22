@@ -20,6 +20,9 @@ const onPage = Array.from(document.querySelectorAll(".item-result-image"))
         // The search includes unreleased items
         // although right now there is only 1
         if (ignore.includes(name)) return -1
+        
+        // exclude books like boo_lutari_art
+        if (name.startsWith('boo_')) return -1
         return [name, parseInt(rarity)]
     })
     .filter((e) => e !== -1)
@@ -36,7 +39,7 @@ JSON.parse(localStorage.book)
 ```
 
 
-Right click and "Copy object"
+Right click the array (not its items) and click "Copy object"
 
 The result should be an array with N items, where N is the number of books released (in this case 428). Each item should be an array of length 2 with the first item being the title of the book (string) and the second being the rarity (number)
 
