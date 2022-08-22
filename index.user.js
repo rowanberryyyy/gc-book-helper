@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Grundo's Cafe Book Helper
 // @namespace    github.com/windupbird144/
-// @version      0.1
+// @version      0.2
 // @description  Show unread books on your pet's book page
 // @author       You
 // @match        https://www.grundos.cafe/books_read/?pet_name=*
@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-const booksUrl = `https://gist.githubusercontent.com/windupbird144/7eb8f24ae3c64feb095edf8935305458/raw/d0ee389b14e2c83f30f1c2ead78d60787aab2711/books.json`
+const booksUrl = `https://gist.githubusercontent.com/windupbird144/7eb8f24ae3c64feb095edf8935305458/raw/books.json`
 
 /**
  * Analyse the document to find out which books your pet has read
