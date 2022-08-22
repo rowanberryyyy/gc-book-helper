@@ -1,8 +1,8 @@
-See the link `booksUrl` in [./index.user.js]() for the list of books
+See the link `booksUrl` in <./index.user.js> for the list of books
 
-First, go to JN database and find the books released between 1999 and 2002
+First, go to JN database and find the books released between 1999 and 2002 with rarity 1 to 499 (both are treated as inclusive by JN)
 
-[https://items.jellyneo.net/search/?cat[]=5&min_rarity=1&max_rarity=499&sort=3&limit=75&max_release=04%2F18%2F2002&start=0]()
+[JN Advanced Search results](https://items.jellyneo.net/search/?cat[]=5&min_rarity=1&max_rarity=499&sort=3&limit=75&max_release=04%2F18%2F2002&start=0)
 
  April 18, 2002 
 
