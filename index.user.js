@@ -17,7 +17,7 @@ const booksUrl = `https://gist.githubusercontent.com/windupbird144/7eb8f24ae3c64
  * @returns string[] title of book your pets has read
  */
 const getReadBooks = () => 
-    Array.from(document.querySelectorAll("#center > table > tbody > tr:nth-of-type(n+2)")).map(e => e.childNodes[3].childNodes[0].textContent.trim().replace(" (",""))
+    Array.from(document.querySelectorAll(".center > table > tbody > tr:nth-of-type(n+2)")).map(e => e.childNodes[3].childNodes[0].textContent.trim().replace(" (",""))
 
 /**
  * Return a list of books your pet has not read
