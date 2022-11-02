@@ -1,52 +1,35 @@
 See the link `booksUrl` in <./index.user.js> for the list of books
 
-First, go to JN database and find the books released between 1999 and 2002 with rarity 1 to 499 (both are treated as inclusive by JN)
+First, go to JN database and find the books released between 1999 and 2002 with rarity 1 to 499 (both are treated as inclusive by JN). Press the "print" button.
 
-[JN Advanced Search results](https://items.jellyneo.net/search/?cat[]=5&min_rarity=1&max_rarity=499&sort=3&limit=75&max_release=04%2F18%2F2002&start=0)
+[Print page](https://items.jellyneo.net/search/print/?cat[]=5&min_rarity=1&max_rarity=499&sort=3&limit=75&max_release=10%2F07%2F2002)
 
- April 18, 2002 
-
-Now run this script once on each page
+Now run this script
 ```js
-const books = localStorage.getItem("book") ? JSON.parse(localStorage.getItem("book")) : []
+(function () {
+  const ignore = ["All About Grey Faeries"];
 
-const ignore = ["All About Grey Faeries"]
+  const books = Array.from(document.querySelectorAll("a[href*='/item/']"))
+    .map((a) => {
+      let name = a.textContent;
+      let rarity = a.nextElementSibling.textContent.match(/r(\d+)/)[1];
+      // The search includes unreleased items
+      // although right now there is only 1
+      if (ignore.includes(name)) return -1;
 
-const onPage = Array.from(document.querySelectorAll(".item-result-image"))
-    .map((e) => {
-        // Example : Cool Amazing Book - r85
-        let [name,rarity] = e.title.split(" - r") 
-
-        // The search includes unreleased items
-        // although right now there is only 1
-        if (ignore.includes(name)) return -1
-        
-        // exclude books like boo_lutari_art
-        if (name.startsWith('boo_')) return -1
-        return [name, parseInt(rarity)]
+      // exclude books like boo_lutari_art
+      if (name.startsWith("boo_")) return -1;
+      return [name, parseInt(rarity)];
     })
-    .filter((e) => e !== -1)
+    .filter((e) => e !== -1);
 
-books.push(...onPage)
-
-localStorage.setItem("book", JSON.stringify(books))
+  return books;
+})();
 ```
-
-When you are done, retrieve your result
-
-```js
-JSON.parse(localStorage.book)
-```
-
 
 Right click the array (not its items) and click "Copy object"
 
-The result should be an array with N items, where N is the number of books released (in this case 428). Each item should be an array of length 2 with the first item being the title of the book (string) and the second being the rarity (number)
-
-And clean up
-```js
-delete localStorage.book
-```
+The result should be an array with N items, where N is the number of books released. Each item should be an array of length 2 with the first item being the title of the book (string) and the second being the rarity (number)
 
 Watch out for unreleased items. Their names should be added to the "ignore" array
 
