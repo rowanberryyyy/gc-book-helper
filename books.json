@@ -1,2114 +1,4330 @@
 [
-  [
-    "Mysterious Book",
-    180
-  ],
-  [
-    "My First Book",
-    80
-  ],
-  [
-    "Secrets Of The Money Tree",
-    80
-  ],
-  [
-    "Billy Blue Hat",
-    80
-  ],
-  [
-    "My First Faerie",
-    80
-  ],
-  [
-    "Alphabet",
-    80
-  ],
-  [
-    "Karate for Beginners",
-    80
-  ],
-  [
-    "Basic Survival Skills",
-    80
-  ],
-  [
-    "Science is Fun!",
-    80
-  ],
-  [
-    "101 Negg Recipes",
-    80
-  ],
-  [
-    "Basic Mathematics",
-    180
-  ],
-  [
-    "Mote Magic",
-    180
-  ],
-  [
-    "Starting Spells",
-    180
-  ],
-  [
-    "Map Reading",
-    80
-  ],
-  [
-    "Aisha Book",
-    55
-  ],
-  [
-    "Caring for Eyries",
-    180
-  ],
-  [
-    "JubJub Know How",
-    70
-  ],
-  [
-    "Life Behind the Bow tie",
-    180
-  ],
-  [
-    "Kacheek Book",
-    60
-  ],
-  [
-    "Chia Book",
-    88
-  ],
-  [
-    "Dont Call Me Cute",
-    90
-  ],
-  [
-    "Faerie Tales",
-    60
-  ],
-  [
-    "Grarrls Are Great",
-    180
-  ],
-  [
-    "Jetsams",
-    180
-  ],
-  [
-    "Flotsams",
-    180
-  ],
-  [
-    "Kickin Kikos",
-    180
-  ],
-  [
-    "Curious Korbats",
-    180
-  ],
-  [
-    "Lovely Lennys",
-    180
-  ],
-  [
-    "Goodbye Mel",
-    180
-  ],
-  [
-    "Nimmos",
-    62
-  ],
-  [
-    "Scorchio Book",
-    61
-  ],
-  [
-    "Sinister Skeith",
-    48
-  ],
-  [
-    "Top Tuskaninnys",
-    48
-  ],
-  [
-    "Unique Unis",
-    49
-  ],
-  [
-    "Ultimate Wocky Manual",
-    49
-  ],
-  [
-    "Caring For Your Neopet 1",
-    180
-  ],
-  [
-    "Caring For Your Neopet 2",
-    180
-  ],
-  [
-    "Caring For Your Neopet 3",
-    180
-  ],
-  [
-    "Caring For Your Neopet 4",
-    180
-  ],
-  [
-    "Caring For Your Neopet 5",
-    180
-  ],
-  [
-    "Guide to Lupes",
-    48
-  ],
-  [
-    "Book of Bizarre Tales",
-    180
-  ],
-  [
-    "Warped Book",
-    180
-  ],
-  [
-    "Kau Pastures",
-    99
-  ],
-  [
-    "Poogle Pages",
-    99
-  ],
-  [
-    "Care of Koi",
-    99
-  ],
-  [
-    "Grundo Tales",
-    99
-  ],
-  [
-    "Kougra Classics",
-    99
-  ],
-  [
-    "Moehog Matching",
-    99
-  ],
-  [
-    "Cybunny Care",
-    99
-  ],
-  [
-    "The Hunt For The Red Gelert",
-    80
-  ],
-  [
-    "The Gelert Diaries",
-    64
-  ],
-  [
-    "Gelert On Treasure Island",
-    58
-  ],
-  [
-    "Plushie Collector",
-    88
-  ],
-  [
-    "Breakfast Treats",
-    59
-  ],
-  [
-    "A Magazine",
-    95
-  ],
-  [
-    "Postcard From Virtupets Space Station",
-    101
-  ],
-  [
-    "Postcard From Mystery Island",
-    101
-  ],
-  [
-    "Postcard From Shenkuu",
-    101
-  ],
-  [
-    "Postcard From Maraqua",
-    101
-  ],
-  [
-    "Postcard From The Lost Desert",
-    101
-  ],
-  [
-    "Postcard From The Haunted Woods",
-    101
-  ],
-  [
-    "Postcard From Faerieland",
-    101
-  ],
-  [
-    "Motivational Neopian Phrases",
-    101
-  ],
-  [
-    "Living a Healthy Neopian Life",
-    101
-  ],
-  [
-    "Big Book of Neopian Words",
-    101
-  ],
-  [
-    "Algebra",
-    180
-  ],
-  [
-    "Geometry Level 1",
-    78
-  ],
-  [
-    "Geometry Level 2",
-    76
-  ],
-  [
-    "Geometry Level 3",
-    77
-  ],
-  [
-    "BIG book of Puzzles",
-    80
-  ],
-  [
-    "Little book of puzzles",
-    60
-  ],
-  [
-    "Quick Reference Dictionary",
-    60
-  ],
-  [
-    "How to Stay Fit",
-    60
-  ],
-  [
-    "Watch Out!",
-    50
-  ],
-  [
-    "Learn Social Skills",
-    50
-  ],
-  [
-    "All About Air Faeries",
-    49
-  ],
-  [
-    "All About Dark Faeries",
-    99
-  ],
-  [
-    "All About Fire Faeries",
-    99
-  ],
-  [
-    "All About Earth Faeries",
-    94
-  ],
-  [
-    "Defence For Unis",
-    180
-  ],
-  [
-    "Wonderful World of Gardening",
-    45
-  ],
-  [
-    "Gourmet Cooking For Your Pet",
-    50
-  ],
-  [
-    "Know Your Collectable Cards",
-    50
-  ],
-  [
-    "Know Your Motes",
-    50
-  ],
-  [
-    "All About Light Faeries",
-    180
-  ],
-  [
-    "Loyal Lupes",
-    60
-  ],
-  [
-    "Maps of Neopia",
-    65
-  ],
-  [
-    "My Garden Book",
-    66
-  ],
-  [
-    "NeoFashion",
-    180
-  ],
-  [
-    "All About Water Faeries",
-    77
-  ],
-  [
-    "Ancient Book",
-    180
-  ],
-  [
-    "Bitten Book",
-    180
-  ],
-  [
-    "Book of Bones",
-    180
-  ],
-  [
-    "Bound Magic Book",
-    180
-  ],
-  [
-    "Chained Book",
-    180
-  ],
-  [
-    "Golden Shoyru Book",
-    180
-  ],
-  [
-    "Book of Vision",
-    180
-  ],
-  [
-    "Book of Ice Magic",
-    180
-  ],
-  [
-    "Locked Book",
-    180
-  ],
-  [
-    "Nimmo Joe Book",
-    180
-  ],
-  [
-    "Book of Pain",
-    180
-  ],
-  [
-    "Scaled Magic Book",
-    180
-  ],
-  [
-    "Book of Sea Spells",
-    180
-  ],
-  [
-    "Book of Splinters",
-    180
-  ],
-  [
-    "Solid Steel Book",
-    180
-  ],
-  [
-    "Popular Neopian Stories",
-    180
-  ],
-  [
-    "Book of Symbols",
-    180
-  ],
-  [
-    "How to Ride a Bike",
-    72
-  ],
-  [
-    "Quiggle Facts",
-    72
-  ],
-  [
-    "Acara Facts",
-    73
-  ],
-  [
-    "My Zafara and Me",
-    180
-  ],
-  [
-    "Bird Watching",
-    180
-  ],
-  [
-    "Guide to Petpets",
-    89
-  ],
-  [
-    "Learn to Fly",
-    60
-  ],
-  [
-    "Jump Into the Future",
-    180
-  ],
-  [
-    "Green Thumb Guide",
-    180
-  ],
-  [
-    "Time Travel",
-    180
-  ],
-  [
-    "Flotsam Swimming Lessons",
-    55
-  ],
-  [
-    "Terrific Acaras",
-    60
-  ],
-  [
-    "Techo Says - The Book",
-    65
-  ],
-  [
-    "Tear Jerkers",
-    80
-  ],
-  [
-    "Battledome Guide",
-    101
-  ],
-  [
-    "Cooking Neggs Book",
-    101
-  ],
-  [
-    "Know Your Neggs Book",
-    101
-  ],
-  [
-    "Mystic Neggs Book",
-    101
-  ],
-  [
-    "Theories of Physics",
-    101
-  ],
-  [
-    "Where Neggs Grow",
-    101
-  ],
-  [
-    "A Tale of Two Lupes",
-    180
-  ],
-  [
-    "Robin Lupe",
-    55
-  ],
-  [
-    "Arts and Crafts With Lupes",
-    70
-  ],
-  [
-    "Feeding Lupes",
-    180
-  ],
-  [
-    "Inside the Mind of a Lupe",
-    180
-  ],
-  [
-    "Choosing Kacheeks",
-    80
-  ],
-  [
-    "Neopian Encyclopedia A - E",
-    180
-  ],
-  [
-    "Neopian Encyclopedia F - J",
-    180
-  ],
-  [
-    "Neopian Encyclopedia K - O",
-    180
-  ],
-  [
-    "Neopian Encyclopedia P - T",
-    180
-  ],
-  [
-    "Neopian Encyclopedia U - Z",
-    180
-  ],
-  [
-    "Poetry For Peophins",
-    45
-  ],
-  [
-    "Looking Like A Moehog",
-    76
-  ],
-  [
-    "Speak Moehog",
-    65
-  ],
-  [
-    "Training Your Moehog",
-    45
-  ],
-  [
-    "Moehog Poetry",
-    70
-  ],
-  [
-    "Knowing Moehogs",
-    68
-  ],
-  [
-    "Pteri Pop-Up Book",
-    98
-  ],
-  [
-    "How to Make A Pteri Plush Doll",
-    45
-  ],
-  [
-    "Nest Builders Manual",
-    50
-  ],
-  [
-    "Radio Active Pteri Part 1",
-    180
-  ],
-  [
-    "Koi Owners Manual",
-    180
-  ],
-  [
-    "Healing Koi",
-    180
-  ],
-  [
-    "Train Koi",
-    180
-  ],
-  [
-    "Feed Koi",
-    180
-  ],
-  [
-    "Koi Tales",
-    45
-  ],
-  [
-    "JubJub Manual",
-    180
-  ],
-  [
-    "Big Foot the JubJub",
-    180
-  ],
-  [
-    "JubJub Roll!",
-    180
-  ],
-  [
-    "All You Need to Know About Your JubJub",
-    180
-  ],
-  [
-    "JubJubs Day",
-    180
-  ],
-  [
-    "History of the Ski Lodge v3",
-    104
-  ],
-  [
-    "History of the Ski Lodge v2",
-    102
-  ],
-  [
-    "History of the Ski Lodge v1",
-    102
-  ],
-  [
-    "Usuki Collectors Guide",
-    55
-  ],
-  [
-    "Quiggle Joke Book",
-    62
-  ],
-  [
-    "The Eye of the Quiggle",
-    61
-  ],
-  [
-    "Quiggle Stunt Book",
-    60
-  ],
-  [
-    "Quiggle Art Book",
-    63
-  ],
-  [
-    "Quiggle Work Out",
-    64
-  ],
-  [
-    "Nimmo Yoga",
-    70
-  ],
-  [
-    "Nimmo Meditation",
-    75
-  ],
-  [
-    "Nimmo Battle Cry",
-    99
-  ],
-  [
-    "Nimmo Winter Tales",
-    78
-  ],
-  [
-    "Nimmo of Doom",
-    79
-  ],
-  [
-    "Kaus Guide to Better Grazing",
-    180
-  ],
-  [
-    "Raising Young Kau",
-    180
-  ],
-  [
-    "Kau Faerie Tales",
-    80
-  ],
-  [
-    "Kau Pies",
-    45
-  ],
-  [
-    "I Love Moo-cee",
-    90
-  ],
-  [
-    "Acaras in History",
-    50
-  ],
-  [
-    "Dance Away",
-    180
-  ],
-  [
-    "Forever Ferny",
-    45
-  ],
-  [
-    "Oopsy Daisy",
-    180
-  ],
-  [
-    "Scaredy Acara",
-    180
-  ],
-  [
-    "Blumaroo Love Stories",
-    40
-  ],
-  [
-    "The Unlucky Blumaroo",
-    55
-  ],
-  [
-    "Blumaroo Guide To Dancing",
-    180
-  ],
-  [
-    "The Legend of Count von Roo",
-    68
-  ],
-  [
-    "Shoyru Surprise",
-    55
-  ],
-  [
-    "Shoyru Songs",
-    60
-  ],
-  [
-    "Shoyru Heroes",
-    66
-  ],
-  [
-    "The Sad Shoyru",
-    70
-  ],
-  [
-    "Caring For Shoyrus",
-    90
-  ],
-  [
-    "Talk Tuska",
-    78
-  ],
-  [
-    "Purple Power",
-    180
-  ],
-  [
-    "Robot Days",
-    60
-  ],
-  [
-    "Im Not Angry",
-    45
-  ],
-  [
-    "Kiko - Fu",
-    180
-  ],
-  [
-    "Kiko Care",
-    180
-  ],
-  [
-    "Kiko Encyclopedia",
-    55
-  ],
-  [
-    "Kikos Darkside",
-    65
-  ],
-  [
-    "Kiko Food",
-    50
-  ],
-  [
-    "Once Upon A Chia",
-    86
-  ],
-  [
-    "Care of Chias",
-    67
-  ],
-  [
-    "A Chia Story",
-    99
-  ],
-  [
-    "A History of Chias",
-    99
-  ],
-  [
-    "A Chia Halloween",
-    99
-  ],
-  [
-    "Fun With Flotsams",
-    78
-  ],
-  [
-    "Training Your Flotsam",
-    85
-  ],
-  [
-    "Flotsam Facts",
-    87
-  ],
-  [
-    "Flotsam Food",
-    86
-  ],
-  [
-    "A Flotsam Christmas",
-    82
-  ],
-  [
-    "Sad Peophin Stories",
-    48
-  ],
-  [
-    "Scary Peophin Tales",
-    65
-  ],
-  [
-    "Peophin MD",
-    180
-  ],
-  [
-    "Keeping Peophin",
-    180
-  ],
-  [
-    "Caring For Peophins",
-    50
-  ],
-  [
-    "Cybunny Financing",
-    180
-  ],
-  [
-    "Cybunny Down",
-    45
-  ],
-  [
-    "How To Catch A Cybunny",
-    50
-  ],
-  [
-    "The Great Chomby",
-    180
-  ],
-  [
-    "The Lonely Elephante",
-    50
-  ],
-  [
-    "Where The Elephantes Roam",
-    77
-  ],
-  [
-    "Elephante Dreams",
-    60
-  ],
-  [
-    "The Chomby Fight",
-    45
-  ],
-  [
-    "The Angry Chomby",
-    180
-  ],
-  [
-    "The Secret Chomby",
-    70
-  ],
-  [
-    "Cybunny Rules 101",
-    65
-  ],
-  [
-    "The Art Of Cybunnies",
-    180
-  ],
-  [
-    "The Happy Blumaroo",
-    180
-  ],
-  [
-    "Brainy Blumaroos",
-    50
-  ],
-  [
-    "Blumaroo Dance Moves",
-    55
-  ],
-  [
-    "The Mighty Blumaroo",
-    45
-  ],
-  [
-    "The Shadow Usul",
-    99
-  ],
-  [
-    "Inside the Mind of Bob",
-    99
-  ],
-  [
-    "Drawing Kiko",
-    180
-  ],
-  [
-    "Meerca Fashion Season 1",
-    78
-  ],
-  [
-    "Maggie the Meerca",
-    70
-  ],
-  [
-    "The Meercas Bad Day",
-    50
-  ],
-  [
-    "When Your Meercas Hurt",
-    180
-  ],
-  [
-    "Meercas In Love",
-    98
-  ],
-  [
-    "A Grundo Christmas",
-    56
-  ],
-  [
-    "Grundo Ballet",
-    60
-  ],
-  [
-    "Grundo Food",
-    50
-  ],
-  [
-    "The Lonely Grundo",
-    60
-  ],
-  [
-    "Beating Sloth",
-    99
-  ],
-  [
-    "Bad Apples",
-    57
-  ],
-  [
-    "Sick Kyrii",
-    55
-  ],
-  [
-    "The Macho Kyrii",
-    50
-  ],
-  [
-    "Confident Kyrii",
-    180
-  ],
-  [
-    "Grarrl Comics",
-    60
-  ],
-  [
-    "The Grarrl Who Crushed Tyrannia",
-    50
-  ],
-  [
-    "Grarrl Mythology",
-    79
-  ],
-  [
-    "Grarrl Picture Book",
-    69
-  ],
-  [
-    "Defence for Elephantes",
-    70
-  ],
-  [
-    "Cloud Elephantes",
-    80
-  ],
-  [
-    "Scorchio Cooks",
-    75
-  ],
-  [
-    "Weight Lifting for Jetsams",
-    70
-  ],
-  [
-    "How to be a Model",
-    55
-  ],
-  [
-    "The Mover",
-    60
-  ],
-  [
-    "Being Stinky",
-    70
-  ],
-  [
-    "Home Surgery for Jetsams",
-    65
-  ],
-  [
-    "You and Your Faerie Korbat",
-    85
-  ],
-  [
-    "The Korbat Who Couldnt Hang",
-    75
-  ],
-  [
-    "Korbat Games",
-    70
-  ],
-  [
-    "How To Keep Korbats Happy",
-    76
-  ],
-  [
-    "Korbat Halloween",
-    80
-  ],
-  [
-    "Trick-or-Treat Tips",
-    80
-  ],
-  [
-    "Ghost Stories",
-    89
-  ],
-  [
-    "Mystery Of Halloween",
-    87
-  ],
-  [
-    "Witch Hunting Techniques",
-    85
-  ],
-  [
-    "Witchcraft Spells",
-    83
-  ],
-  [
-    "Nasty Lenny",
-    72
-  ],
-  [
-    "Lennies in Love",
-    72
-  ],
-  [
-    "Lenny Magic",
-    71
-  ],
-  [
-    "Pteri Battle Manual",
-    67
-  ],
-  [
-    "From Egg to Feathers",
-    65
-  ],
-  [
-    "Pteri Games",
-    68
-  ],
-  [
-    "The Pterrible Pteri",
-    75
-  ],
-  [
-    "Tyrannian Time Travel",
-    101
-  ],
-  [
-    "Tree Magic",
-    101
-  ],
-  [
-    "Snowager Saga",
-    101
-  ],
-  [
-    "Quest Spells",
-    101
-  ],
-  [
-    "Ooga Book",
-    101
-  ],
-  [
-    "Gebmids",
-    101
-  ],
-  [
-    "Raising Baby Grundo",
-    101
-  ],
-  [
-    "Neopian Times Issue 3",
-    101
-  ],
-  [
-    "Gathering Food Effectively",
-    75
-  ],
-  [
-    "Bananas the Mynci Way",
-    70
-  ],
-  [
-    "M*YNCI Fan Book",
-    85
-  ],
-  [
-    "Battledome Techniques",
-    80
-  ],
-  [
-    "Getting Better",
-    83
-  ],
-  [
-    "A Warm Christmas",
-    86
-  ],
-  [
-    "My Neohome",
-    88
-  ],
-  [
-    "The Magic Staff",
-    99
-  ],
-  [
-    "Best Friends",
-    99
-  ],
-  [
-    "Cures for Bad Breath",
-    99
-  ],
-  [
-    "Connect the Dots",
-    65
-  ],
-  [
-    "Tree Homes",
-    70
-  ],
-  [
-    "Nuts, A Love Story",
-    89
-  ],
-  [
-    "Grooming Habits",
-    80
-  ],
-  [
-    "Naughty or Nice",
-    89
-  ],
-  [
-    "Book of Bruce",
-    78
-  ],
-  [
-    "Being Bruce",
-    72
-  ],
-  [
-    "Guide to Bruces",
-    70
-  ],
-  [
-    "Bruces Magic Guide",
-    80
-  ],
-  [
-    "Bruces Guide to Combat Eating",
-    99
-  ],
-  [
-    "Wocky Jewellery",
-    75
-  ],
-  [
-    "Wocky Magic",
-    90
-  ],
-  [
-    "Wocky Will",
-    85
-  ],
-  [
-    "The Sad Wocky",
-    80
-  ],
-  [
-    "Zafara Crossword Puzzles",
-    75
-  ],
-  [
-    "Zafaras Rainy Day",
-    70
-  ],
-  [
-    "2 Much 2 Soon",
-    85
-  ],
-  [
-    "Creating a Lucky Zafara",
-    89
-  ],
-  [
-    "Uni Myths",
-    99
-  ],
-  [
-    "Uni Care",
-    89
-  ],
-  [
-    "The Uni Trilogy",
-    88
-  ],
-  [
-    "Uni in Wonderland",
-    87
-  ],
-  [
-    "Stripe, the Strange Skeith",
-    75
-  ],
-  [
-    "Legendary Skeiths",
-    90
-  ],
-  [
-    "The Naughty Skeith",
-    88
-  ],
-  [
-    "Skeith Magic",
-    70
-  ],
-  [
-    "Pop-Up Skeith",
-    68
-  ],
-  [
-    "The Bad Skeith",
-    99
-  ],
-  [
-    "The Hungry Techo",
-    70
-  ],
-  [
-    "Techo Dance",
-    75
-  ],
-  [
-    "Techo in Love",
-    76
-  ],
-  [
-    "The Voodoo Techo",
-    99
-  ],
-  [
-    "Techo Guide to Weapons",
-    80
-  ],
-  [
-    "Techo Yoga",
-    74
-  ],
-  [
-    "Buzz for Infants",
-    85
-  ],
-  [
-    "Buzz Boxing Basics",
-    87
-  ],
-  [
-    "Buzz How To Fly",
-    88
-  ],
-  [
-    "Buzz Guide to Magics",
-    89
-  ],
-  [
-    "The Happy Buzz",
-    96
-  ],
-  [
-    "Chocolate Chia Cookbook",
-    90
-  ],
-  [
-    "No Bones About It",
-    89
-  ],
-  [
-    "Howling For Fun",
-    87
-  ],
-  [
-    "Lupe Mysteries",
-    75
-  ],
-  [
-    "Squeaky Elephante Book",
-    60
-  ],
-  [
-    "This Is Nuts",
-    80
-  ],
-  [
-    "Stampede Tips",
-    85
-  ],
-  [
-    "The Secret Behind The Jewel",
-    79
-  ],
-  [
-    "Buzz Acrobatic Stunts",
-    95
-  ],
-  [
-    "Aerial Shots of Neopia",
-    98
-  ],
-  [
-    "Defence in the Battledome",
-    97
-  ],
-  [
-    "Calculus Basics",
-    98
-  ],
-  [
-    "Extinct Neopian Languages",
-    98
-  ],
-  [
-    "Trigonometry Hyperbolics",
-    99
-  ],
-  [
-    "Experimental Physics",
-    99
-  ],
-  [
-    "Mutations in Kacheeks",
-    88
-  ],
-  [
-    "Kacheeks Are Cool",
-    84
-  ],
-  [
-    "Kacheek Exercise",
-    87
-  ],
-  [
-    "Kacheek Magic",
-    93
-  ],
-  [
-    "Cave Kacheek",
-    90
-  ],
-  [
-    "Kacheek Week",
-    89
-  ],
-  [
-    "Princess Vyssas Diary",
-    99
-  ],
-  [
-    "Shadow Usul Stories",
-    99
-  ],
-  [
-    "Brain Trees Brainiac",
-    99
-  ],
-  [
-    "Petfolio",
-    99
-  ],
-  [
-    "Hubrids Book of Death",
-    130
-  ],
-  [
-    "Zafara Lore",
-    98
-  ],
-  [
-    "Olde Zafara",
-    99
-  ],
-  [
-    "Forbidden Zafara",
-    99
-  ],
-  [
-    "Zafara Mystery Collection",
-    99
-  ],
-  [
-    "Zafara War",
-    98
-  ],
-  [
-    "Lenny Cookbook",
-    99
-  ],
-  [
-    "Lenny Fitness",
-    74
-  ],
-  [
-    "My Life As A Lenny",
-    98
-  ],
-  [
-    "Lenny Love",
-    76
-  ],
-  [
-    "Lenny Witchcraft",
-    99
-  ],
-  [
-    "Dark Faerie Magic",
-    130
-  ],
-  [
-    "Chianatomy",
-    97
-  ],
-  [
-    "Chia Quotes",
-    98
-  ],
-  [
-    "A Chias Choice",
-    96
-  ],
-  [
-    "Chia Art History",
-    99
-  ],
-  [
-    "12 Angry Myncies",
-    97
-  ],
-  [
-    "Mynci Law",
-    86
-  ],
-  [
-    "Mynci Book of World Records",
-    90
-  ],
-  [
-    "The Confused Mynci",
-    89
-  ],
-  [
-    "The Rainbow Gelert",
-    83
-  ],
-  [
-    "When Gelerts Go Bad",
-    85
-  ],
-  [
-    "Sick of Spots",
-    80
-  ],
-  [
-    "Scorchio Summer",
-    88
-  ],
-  [
-    "My Sweet Scorchio",
-    90
-  ],
-  [
-    "Long Neck Lucy",
-    93
-  ],
-  [
-    "Chomby Mysteries",
-    99
-  ],
-  [
-    "The Chomby Secret",
-    95
-  ],
-  [
-    "Eyrie Diary",
-    73
-  ],
-  [
-    "My Eyrie Friend",
-    85
-  ],
-  [
-    "Eyrie Style",
-    68
-  ],
-  [
-    "Everything Eyrie",
-    80
-  ],
-  [
-    "Eyrie Scrapbook",
-    70
-  ],
-  [
-    "Krawk Anthology",
-    80
-  ],
-  [
-    "Krawk Fighting Techniques",
-    74
-  ],
-  [
-    "Fashion For Krawks",
-    70
-  ],
-  [
-    "Keeping Your Krawk Happy",
-    90
-  ],
-  [
-    "Space and Magic",
-    96
-  ],
-  [
-    "Conquer the Dark",
-    98
-  ],
-  [
-    "Neopias Past",
-    97
-  ],
-  [
-    "Faerie Secrets",
-    98
-  ],
-  [
-    "Battle!",
-    68
-  ],
-  [
-    "Snowy - A White Kougra Story",
-    70
-  ],
-  [
-    "Robot Kougra Maintenance",
-    78
-  ],
-  [
-    "Love and Caring",
-    80
-  ],
-  [
-    "Cybunny Colouring Book",
-    55
-  ],
-  [
-    "My Favourite Food",
-    60
-  ],
-  [
-    "Cybunny Soap Opera",
-    80
-  ],
-  [
-    "Cybunny Secrets",
-    90
-  ],
-  [
-    "Purple Chia Book",
-    101
-  ],
-  [
-    "Super Lupe Comics",
-    96
-  ],
-  [
-    "Modern Lupe Magazine",
-    99
-  ],
-  [
-    "Lupe Digest",
-    98
-  ],
-  [
-    "Baby Moehog Stories",
-    50
-  ],
-  [
-    "Moehog Comic",
-    67
-  ],
-  [
-    "Moehog News",
-    88
-  ],
-  [
-    "Wonder Koi",
-    80
-  ],
-  [
-    "Koi Beauty Tips",
-    75
-  ],
-  [
-    "Win!",
-    78
-  ],
-  [
-    "My Hobby Book",
-    92
-  ],
-  [
-    "JubJub Journal",
-    93
-  ],
-  [
-    "JubJub Jokes",
-    88
-  ],
-  [
-    "The Lonely JubJub",
-    94
-  ],
-  [
-    "The JubJub Club",
-    89
-  ],
-  [
-    "The JubJubs Secret",
-    90
-  ],
-  [
-    "Crazy About Quiggles",
-    75
-  ],
-  [
-    "Quiggle Quotes",
-    60
-  ],
-  [
-    "Quiggle Food Guide",
-    70
-  ],
-  [
-    "The Curious Quiggle",
-    80
-  ],
-  [
-    "Nimmo Anger Management",
-    80
-  ],
-  [
-    "Catch It If You Can",
-    65
-  ],
-  [
-    "Nimmo Gift Ideas",
-    60
-  ],
-  [
-    "The Female Nimmo Ranger",
-    70
-  ],
-  [
-    "Grand Master",
-    90
-  ],
-  [
-    "The Last Kau",
-    70
-  ],
-  [
-    "The Lost Kau",
-    66
-  ],
-  [
-    "The Angry Kau",
-    64
-  ],
-  [
-    "Kau Defence",
-    84
-  ],
-  [
-    "Caring For Your Ill Kau",
-    85
-  ],
-  [
-    "Disco Kau",
-    88
-  ],
-  [
-    "The Abandoned Acara",
-    180
-  ],
-  [
-    "Wheres My Mummy",
-    80
-  ],
-  [
-    "Acara Gormball Tips",
-    85
-  ],
-  [
-    "Acara Algebra",
-    90
-  ],
-  [
-    "Flotsam Wok Recipes",
-    95
-  ],
-  [
-    "Flotsam Legend",
-    85
-  ],
-  [
-    "The Spotted Flotsam",
-    90
-  ],
-  [
-    "Flotsam Arts",
-    80
-  ],
-  [
-    "Noil Colouring Book",
-    132
-  ],
-  [
-    "Doglefox Colouring Book",
-    138
-  ],
-  [
-    "Kiko: Emperor of the Desert",
-    90
-  ],
-  [
-    "Kiko Christmas Story",
-    89
-  ],
-  [
-    "Kiko Food Guide",
-    70
-  ],
-  [
-    "Kiko Treasure Island",
-    85
-  ],
-  [
-    "Hold Your Breath",
-    97
-  ],
-  [
-    "Harquins Day",
-    94
-  ],
-  [
-    "Peophin Power!",
-    96
-  ],
-  [
-    "Learn to Swim",
-    89
-  ],
-  [
-    "Illusens Novel",
-    101
-  ],
-  [
-    "Earth Spell Book",
-    101
-  ],
-  [
-    "Magic for Beginners",
-    87
-  ],
-  [
-    "1002 Spells For You",
-    86
-  ],
-  [
-    "Advanced Magic",
-    90
-  ],
-  [
-    "Lost Spells of Neopia",
-    89
-  ],
-  [
-    "Moehawk History Book",
-    101
-  ],
-  [
-    "Blumaroo Comedy",
-    80
-  ],
-  [
-    "Super Roo - The Comic",
-    86
-  ],
-  [
-    "Baby Blumaroos",
-    89
-  ],
-  [
-    "Blumaroo Picture Book",
-    80
-  ],
-  [
-    "Potato Counting For Beginners",
-    80
-  ],
-  [
-    "The Royal Treasure Collection",
-    95
-  ],
-  [
-    "The History Of Meridell",
-    90
-  ],
-  [
-    "Medieval Petpets",
-    89
-  ],
-  [
-    "Tis Be Harvesting Time",
-    90
-  ],
-  [
-    "Laws of the Land",
-    88
-  ],
-  [
-    "Medieval Dictionary",
-    79
-  ],
-  [
-    "The Joy Of Metal Work",
-    82
-  ],
-  [
-    "Captain Meerca",
-    96
-  ],
-  [
-    "Hunting The Meerca Way",
-    95
-  ],
-  [
-    "Meerca Fashion Season 2",
-    89
-  ],
-  [
-    "Meerca Paint Guide",
-    90
-  ],
-  [
-    "The Angry Grundo",
-    80
-  ],
-  [
-    "Grundo Surf Manual",
-    85
-  ],
-  [
-    "Raising Grundos",
-    83
-  ],
-  [
-    "The Lost Grundo",
-    90
-  ],
-  [
-    "Grundo Potions",
-    80
-  ],
-  [
-    "Kyrii ABCs",
-    76
-  ],
-  [
-    "Mythical Kyriis",
-    88
-  ],
-  [
-    "Basic Healing For Kyriis",
-    85
-  ],
-  [
-    "The Kyrii Dancer",
-    80
-  ],
-  [
-    "Book of Swords",
-    101
-  ],
-  [
-    "Guide to Knighthood",
-    101
-  ],
-  [
-    "The Tournament Handbook",
-    101
-  ],
-  [
-    "The Way of the Draik",
-    96
-  ],
-  [
-    "Draik Tales",
-    94
-  ],
-  [
-    "Draik Magic",
-    93
-  ],
-  [
-    "The Draik",
-    90
-  ],
-  [
-    "Techo Secret Journal",
-    89
-  ],
-  [
-    "Techo Style",
-    79
-  ],
-  [
-    "The Techo Cookbook",
-    76
-  ],
-  [
-    "The Great Vacation",
-    88
-  ],
-  [
-    "The Techos Echo",
-    87
-  ],
-  [
-    "Poogle Profile",
-    89
-  ],
-  [
-    "Poogle Races",
-    85
-  ],
-  [
-    "Poogle Poetry",
-    80
-  ],
-  [
-    "Daffodil Diary",
-    88
-  ],
-  [
-    "Enchanted Butterfly Book",
-    90
-  ],
-  [
-    "Faerie Berry Recipes",
-    89
-  ],
-  [
-    "Tropical Flora and Fauna",
-    92
-  ],
-  [
-    "Growling For Beginners",
-    88
-  ],
-  [
-    "Cooking With Petpets",
-    86
-  ],
-  [
-    "King Skarl the I",
-    90
-  ],
-  [
-    "Malkus Vile Book",
-    89
-  ],
-  [
-    "Rare and Retired Items",
-    90
-  ],
-  [
-    "Encyclopedia Neopia",
-    89
-  ],
-  [
-    "Which Brush?",
-    87
-  ],
-  [
-    "Neopia In Under 18NP A Day",
-    89
-  ],
-  [
-    "Maths Nightmare Tips",
-    80
-  ],
-  [
-    "Finding That Bargain",
-    87
-  ],
-  [
-    "Auction Tips and Tricks",
-    75
-  ],
-  [
-    "Roars and Grrrs",
-    89
-  ],
-  [
-    "Grarrg The Great",
-    78
-  ],
-  [
-    "Grarrl Keno",
-    75
-  ],
-  [
-    "Teeth Sharpening Techniques",
-    80
-  ],
-  [
-    "Antique Furniture",
-    75
-  ],
-  [
-    "Neohomes and Gardens",
-    80
-  ],
-  [
-    "Picking Better Berries",
-    70
-  ],
-  [
-    "Counting Potatoes",
-    64
-  ]
+    [
+        "1002 Spells For You",
+        86
+    ],
+    [
+        "101 Uni Treats",
+        87
+    ],
+    [
+        "105 Castle Toilets",
+        101
+    ],
+    [
+        "105 Lava Cake Recipes",
+        41
+    ],
+    [
+        "12 Angry Myncies",
+        97
+    ],
+    [
+        "2 Much 2 Soon",
+        85
+    ],
+    [
+        "300m Peanut Dash Guide Book",
+        93
+    ],
+    [
+        "A Bori Alphabet",
+        74
+    ],
+    [
+        "A Buzz Life",
+        70
+    ],
+    [
+        "A Chia Halloween",
+        99
+    ],
+    [
+        "A Chia Story",
+        99
+    ],
+    [
+        "A Chias Choice",
+        96
+    ],
+    [
+        "A Day At The Races",
+        88
+    ],
+    [
+        "A Faerie Beautiful Day",
+        94
+    ],
+    [
+        "A Flotsam Christmas",
+        82
+    ],
+    [
+        "A Grundo Christmas",
+        56
+    ],
+    [
+        "A History of Chias",
+        99
+    ],
+    [
+        "A History Of Moehogs",
+        89
+    ],
+    [
+        "A is for Aisha",
+        50
+    ],
+    [
+        "A Kau Summer",
+        86
+    ],
+    [
+        "A Maraquan Menu",
+        78
+    ],
+    [
+        "A New Day",
+        71
+    ],
+    [
+        "A Plague Upon You!",
+        99
+    ],
+    [
+        "A Seasonal Pea",
+        99
+    ],
+    [
+        "A Shoyrus Guide To Neopia On A Budget",
+        79
+    ],
+    [
+        "A Special Christmas",
+        80
+    ],
+    [
+        "A Squires Life",
+        89
+    ],
+    [
+        "A Starry Pteri Night",
+        86
+    ],
+    [
+        "A Tail Of Two Krawks",
+        88
+    ],
+    [
+        "A Tale of Three Bruces",
+        86
+    ],
+    [
+        "A Tale of Two Lupes",
+        180
+    ],
+    [
+        "A Tricky Tale",
+        75
+    ],
+    [
+        "A Warm Christmas",
+        86
+    ],
+    [
+        "Acara Acrostics",
+        70
+    ],
+    [
+        "Acara Algebra",
+        90
+    ],
+    [
+        "Acara Anatomy Book",
+        89
+    ],
+    [
+        "Acara Battle Book",
+        66
+    ],
+    [
+        "Acara Facts",
+        73
+    ],
+    [
+        "Acara Gormball Tips",
+        85
+    ],
+    [
+        "Acara Magic",
+        80
+    ],
+    [
+        "Acara Nightmare",
+        88
+    ],
+    [
+        "Acaras in History",
+        50
+    ],
+    [
+        "Advanced Curses",
+        98
+    ],
+    [
+        "Advanced Kreludan Physics",
+        100
+    ],
+    [
+        "Advanced Learning",
+        98
+    ],
+    [
+        "Advanced Magic",
+        90
+    ],
+    [
+        "Advanced Papyrus Making",
+        59
+    ],
+    [
+        "Advanced Poetry",
+        99
+    ],
+    [
+        "Adventures In Space",
+        88
+    ],
+    [
+        "Advert Attack Guide Book",
+        90
+    ],
+    [
+        "Aerial Shots of Neopia",
+        98
+    ],
+    [
+        "After the Battle",
+        70
+    ],
+    [
+        "Aisha Encyclopedia",
+        80
+    ],
+    [
+        "Algebra",
+        180
+    ],
+    [
+        "Alien Aisha Invasion",
+        99
+    ],
+    [
+        "All About Air Faeries",
+        49
+    ],
+    [
+        "All About Buzz",
+        78
+    ],
+    [
+        "All About Dark Faeries",
+        99
+    ],
+    [
+        "All About Earth Faeries",
+        94
+    ],
+    [
+        "All About Fire Faeries",
+        99
+    ],
+    [
+        "All About Light Faeries",
+        180
+    ],
+    [
+        "All About Water Faeries",
+        77
+    ],
+    [
+        "All In A Days Work",
+        85
+    ],
+    [
+        "All You Need to Know About Your JubJub",
+        180
+    ],
+    [
+        "An Evil Plan",
+        80
+    ],
+    [
+        "An Eyrie Evening",
+        94
+    ],
+    [
+        "An Usul Autumn",
+        80
+    ],
+    [
+        "Ancient Book",
+        180
+    ],
+    [
+        "Angry Shoyru Friends",
+        79
+    ],
+    [
+        "Antique Furniture",
+        75
+    ],
+    [
+        "Arts and Crafts With Lupes",
+        70
+    ],
+    [
+        "Attack of the Giant Space Fungus",
+        70
+    ],
+    [
+        "Attack Of The Meercabots",
+        90
+    ],
+    [
+        "Attack On Kreludor",
+        55
+    ],
+    [
+        "Auction Tips and Tricks",
+        75
+    ],
+    [
+        "Babaa Care",
+        79
+    ],
+    [
+        "Babaa Tales",
+        82
+    ],
+    [
+        "Baby Blumaroos",
+        89
+    ],
+    [
+        "Baby Buzz Book",
+        76
+    ],
+    [
+        "Baby Buzz Manual",
+        80
+    ],
+    [
+        "Baby Gelert Pop-Up Book",
+        88
+    ],
+    [
+        "Baby Ixi Book",
+        60
+    ],
+    [
+        "Baby Kacheeks",
+        88
+    ],
+    [
+        "Baby Lenny Book",
+        86
+    ],
+    [
+        "Baby Moehog Stories",
+        50
+    ],
+    [
+        "Baby Moehogs",
+        70
+    ],
+    [
+        "Baby Mynci Book",
+        89
+    ],
+    [
+        "Baby Shoyru Book",
+        60
+    ],
+    [
+        "Back In Peaceful Times",
+        38
+    ],
+    [
+        "Bad Apples",
+        57
+    ],
+    [
+        "Baking Chocolate Korbats",
+        98
+    ],
+    [
+        "Baking For Myncies",
+        87
+    ],
+    [
+        "Banana Wars",
+        89
+    ],
+    [
+        "Bananas the Mynci Way",
+        70
+    ],
+    [
+        "Barallus The Brave",
+        89
+    ],
+    [
+        "Basic Healing For Kyriis",
+        85
+    ],
+    [
+        "Basic Potion Brewing",
+        88
+    ],
+    [
+        "Basic Spelling Songs",
+        86
+    ],
+    [
+        "Battle Ready!",
+        75
+    ],
+    [
+        "Battle!",
+        68
+    ],
+    [
+        "Battledome Guide",
+        101
+    ],
+    [
+        "Battledome Techniques",
+        80
+    ],
+    [
+        "Beak Shining",
+        80
+    ],
+    [
+        "Beam Me Aboard",
+        100
+    ],
+    [
+        "Beating Sloth",
+        99
+    ],
+    [
+        "Becoming A Spy",
+        80
+    ],
+    [
+        "Beginners Curses",
+        96
+    ],
+    [
+        "Behind Brexis",
+        87
+    ],
+    [
+        "Being Bruce",
+        72
+    ],
+    [
+        "Being Faerie Queen",
+        101
+    ],
+    [
+        "Being Stinky",
+        70
+    ],
+    [
+        "Best Friends",
+        99
+    ],
+    [
+        "Better Than You",
+        90
+    ],
+    [
+        "BIG book of Puzzles",
+        80
+    ],
+    [
+        "Big Foot the JubJub",
+        180
+    ],
+    [
+        "Bird Watching",
+        180
+    ],
+    [
+        "Bitten Book",
+        180
+    ],
+    [
+        "Blue Tuskaninny Tales",
+        75
+    ],
+    [
+        "Blumaroo Comedy",
+        80
+    ],
+    [
+        "Blumaroo Dance Moves",
+        55
+    ],
+    [
+        "Blumaroo Fashion",
+        80
+    ],
+    [
+        "Blumaroo Guide To Dancing",
+        180
+    ],
+    [
+        "Blumaroo Love Stories",
+        40
+    ],
+    [
+        "Blumaroo Picture Book",
+        80
+    ],
+    [
+        "Book of Bones",
+        180
+    ],
+    [
+        "Book of Bruce",
+        78
+    ],
+    [
+        "Book of Evil Schemes",
+        95
+    ],
+    [
+        "Book of Flames",
+        99
+    ],
+    [
+        "Book of Ice Magic",
+        180
+    ],
+    [
+        "Book of Pain",
+        180
+    ],
+    [
+        "Book Of Peas",
+        98
+    ],
+    [
+        "Book of Scarabs",
+        99
+    ],
+    [
+        "Book of Sea Spells",
+        180
+    ],
+    [
+        "Book of Splinters",
+        180
+    ],
+    [
+        "Book of Swords",
+        101
+    ],
+    [
+        "Book of Symbols",
+        180
+    ],
+    [
+        "Book of Vision",
+        180
+    ],
+    [
+        "Bound Magic Book",
+        180
+    ],
+    [
+        "Brain Tree Solutions",
+        101
+    ],
+    [
+        "Brain Trees Brainiac",
+        99
+    ],
+    [
+        "Brainy Blumaroos",
+        50
+    ],
+    [
+        "Breathe",
+        50
+    ],
+    [
+        "Briar The Ixi",
+        80
+    ],
+    [
+        "Brightvale Castle",
+        94
+    ],
+    [
+        "Brightvale Maps",
+        91
+    ],
+    [
+        "Bruce Beauty Tips",
+        75
+    ],
+    [
+        "Bruce Carols",
+        78
+    ],
+    [
+        "Bruce Snowball Strategies",
+        76
+    ],
+    [
+        "Bruces Guide to Combat Eating",
+        99
+    ],
+    [
+        "Bruces Magic Guide",
+        80
+    ],
+    [
+        "Bubble Power",
+        65
+    ],
+    [
+        "Bumper Cars Guide Book",
+        94
+    ],
+    [
+        "Buzz Acrobatic Stunts",
+        95
+    ],
+    [
+        "Buzz Boxing Basics",
+        87
+    ],
+    [
+        "Buzz for Infants",
+        85
+    ],
+    [
+        "Buzz Guide to Magics",
+        89
+    ],
+    [
+        "Buzz How To Fly",
+        88
+    ],
+    [
+        "Calculus Basics",
+        98
+    ],
+    [
+        "Captain Meerca",
+        96
+    ],
+    [
+        "Care of Chias",
+        67
+    ],
+    [
+        "Caring For Bori",
+        82
+    ],
+    [
+        "Caring For Peophins",
+        50
+    ],
+    [
+        "Caring For Shoyrus",
+        90
+    ],
+    [
+        "Caring For Your Ill Kau",
+        85
+    ],
+    [
+        "Caring For Your Mazzew",
+        78
+    ],
+    [
+        "Caring For Your Spardel",
+        80
+    ],
+    [
+        "Carnival Of Terror Guide Book",
+        95
+    ],
+    [
+        "Carrot Growing",
+        88
+    ],
+    [
+        "Carrot Sculpture",
+        90
+    ],
+    [
+        "Cartography For Beginners",
+        95
+    ],
+    [
+        "Catch It If You Can",
+        65
+    ],
+    [
+        "Cave Kacheek",
+        90
+    ],
+    [
+        "Cenanit Ragamans",
+        95
+    ],
+    [
+        "Chained Book",
+        180
+    ],
+    [
+        "Charge",
+        82
+    ],
+    [
+        "Cheat By Capara",
+        96
+    ],
+    [
+        "Cheat In Style",
+        77
+    ],
+    [
+        "Chef Grarrl",
+        80
+    ],
+    [
+        "Chia Art History",
+        99
+    ],
+    [
+        "Chia Ghost Stories",
+        90
+    ],
+    [
+        "Chia Journal",
+        80
+    ],
+    [
+        "Chia Quotes",
+        98
+    ],
+    [
+        "Chianatomy",
+        97
+    ],
+    [
+        "Chocolate Chia Cookbook",
+        90
+    ],
+    [
+        "Chomby Carnival",
+        80
+    ],
+    [
+        "Chomby Dental Care",
+        75
+    ],
+    [
+        "Chomby Diary",
+        89
+    ],
+    [
+        "Chomby Mysteries",
+        99
+    ],
+    [
+        "Chomby Poems",
+        96
+    ],
+    [
+        "Chomby Pop-Up Book",
+        70
+    ],
+    [
+        "Chombytastic",
+        80
+    ],
+    [
+        "Choosing Kacheeks",
+        80
+    ],
+    [
+        "Classic Moehog Tales",
+        45
+    ],
+    [
+        "Claw Of The Bori",
+        78
+    ],
+    [
+        "Cloud Elephantes",
+        80
+    ],
+    [
+        "Cloud Usul Book",
+        101
+    ],
+    [
+        "Cloudy Wocky Days",
+        69
+    ],
+    [
+        "Clowning Around",
+        88
+    ],
+    [
+        "Collectable Cards",
+        86
+    ],
+    [
+        "Collecting Buzz Plushies",
+        89
+    ],
+    [
+        "Collecting Moon Rock",
+        60
+    ],
+    [
+        "Common Cures",
+        93
+    ],
+    [
+        "Confident Kyrii",
+        180
+    ],
+    [
+        "Confusing Conundrums",
+        89
+    ],
+    [
+        "Connect the Dots",
+        65
+    ],
+    [
+        "Conquer the Dark",
+        98
+    ],
+    [
+        "Constellation Spotting",
+        47
+    ],
+    [
+        "Cookie Dough Bomb Manual",
+        85
+    ],
+    [
+        "Cooking For Kougras",
+        60
+    ],
+    [
+        "Cooking For Skeiths",
+        80
+    ],
+    [
+        "Cooking Neggs Book",
+        101
+    ],
+    [
+        "Cooking With A Bomberry",
+        89
+    ],
+    [
+        "Cooking With Gargarox",
+        80
+    ],
+    [
+        "Cooking With Peas",
+        93
+    ],
+    [
+        "Cooking With Petpets",
+        86
+    ],
+    [
+        "Cooking With Your Wock(y)",
+        94
+    ],
+    [
+        "Cotton Tales",
+        180
+    ],
+    [
+        "Counting Potatoes",
+        64
+    ],
+    [
+        "Court Jester Jokes",
+        88
+    ],
+    [
+        "Crazy About Quiggles",
+        75
+    ],
+    [
+        "Creating a Lucky Zafara",
+        89
+    ],
+    [
+        "Crypt Days",
+        93
+    ],
+    [
+        "Cures for Bad Breath",
+        99
+    ],
+    [
+        "Curing Kacheeks",
+        87
+    ],
+    [
+        "Curse of Foul Odour",
+        99
+    ],
+    [
+        "Curse of Ultimate Malison",
+        99
+    ],
+    [
+        "Cybunny Carols",
+        70
+    ],
+    [
+        "Cybunny Colouring Book",
+        55
+    ],
+    [
+        "Cybunny Cookie Making",
+        70
+    ],
+    [
+        "Cybunny Diary",
+        40
+    ],
+    [
+        "Cybunny Down",
+        45
+    ],
+    [
+        "Cybunny Financing",
+        180
+    ],
+    [
+        "Cybunny Rules 101",
+        65
+    ],
+    [
+        "Cybunny Secrets",
+        90
+    ],
+    [
+        "Cybunny Soap Opera",
+        80
+    ],
+    [
+        "Daffodil Diary",
+        88
+    ],
+    [
+        "Dance Away",
+        180
+    ],
+    [
+        "Darigan Skeith Adventures",
+        89
+    ],
+    [
+        "Daring Draiks",
+        89
+    ],
+    [
+        "Dark Faerie Magic",
+        130
+    ],
+    [
+        "Day In The Life Of King Roo",
+        85
+    ],
+    [
+        "Deciphering Your Dreams",
+        96
+    ],
+    [
+        "Deep Sea Explorations",
+        88
+    ],
+    [
+        "Defence for Elephantes",
+        70
+    ],
+    [
+        "Defence For Unis",
+        180
+    ],
+    [
+        "Defence in the Battledome",
+        97
+    ],
+    [
+        "Defend Yourself",
+        38
+    ],
+    [
+        "Defending The Castle",
+        85
+    ],
+    [
+        "Defending Your Neohome",
+        60
+    ],
+    [
+        "Desert Badlands",
+        89
+    ],
+    [
+        "Desert Days",
+        90
+    ],
+    [
+        "Dicearoo for Beginners",
+        89
+    ],
+    [
+        "Disco Kau",
+        88
+    ],
+    [
+        "Doglefox Colouring Book",
+        138
+    ],
+    [
+        "Dont Bug Me",
+        65
+    ],
+    [
+        "Double Tuskaninny Tales",
+        90
+    ],
+    [
+        "Draik Ditties",
+        80
+    ],
+    [
+        "Draik Legends",
+        80
+    ],
+    [
+        "Draik Magic",
+        93
+    ],
+    [
+        "Draik Secrets",
+        89
+    ],
+    [
+        "Draik Tales",
+        94
+    ],
+    [
+        "Drawing Kiko",
+        180
+    ],
+    [
+        "Dress For Success",
+        85
+    ],
+    [
+        "Dr_Deaths Biography",
+        79
+    ],
+    [
+        "Dusty Harmless Looking Scroll",
+        99
+    ],
+    [
+        "Earth Spell Book",
+        101
+    ],
+    [
+        "Eat Or Be Eaten",
+        79
+    ],
+    [
+        "Edna",
+        80
+    ],
+    [
+        "Elegant Elephante",
+        80
+    ],
+    [
+        "Elephante Dreams",
+        60
+    ],
+    [
+        "Empower Your Tail",
+        89
+    ],
+    [
+        "Encyclopedia Neopia",
+        89
+    ],
+    [
+        "Escape From Meridell Castle",
+        90
+    ],
+    [
+        "Every Shoyrus Handbook",
+        89
+    ],
+    [
+        "Everything Eyrie",
+        80
+    ],
+    [
+        "Evil Plots For Beginners",
+        95
+    ],
+    [
+        "Evil Spells",
+        70
+    ],
+    [
+        "Experimental Physics",
+        99
+    ],
+    [
+        "Extinct Neopian Languages",
+        98
+    ],
+    [
+        "Extreme Ixi",
+        80
+    ],
+    [
+        "Eye Of The Grarrl",
+        90
+    ],
+    [
+        "Eye-Sha",
+        35
+    ],
+    [
+        "Eyrie Diary",
+        73
+    ],
+    [
+        "Eyrie Scrapbook",
+        70
+    ],
+    [
+        "Eyrie Style",
+        68
+    ],
+    [
+        "Faellie Handbook",
+        70
+    ],
+    [
+        "Faellie Tales",
+        75
+    ],
+    [
+        "Faerie Berry Recipes",
+        89
+    ],
+    [
+        "Faerie Bubbles",
+        78
+    ],
+    [
+        "Faerie Colourpedia",
+        80
+    ],
+    [
+        "Faerie Crossword Book",
+        87
+    ],
+    [
+        "Faerie Folk",
+        58
+    ],
+    [
+        "Faerie Kau Handbook",
+        89
+    ],
+    [
+        "Faerie Secrets",
+        98
+    ],
+    [
+        "Faeries",
+        80
+    ],
+    [
+        "Falling Leaves",
+        70
+    ],
+    [
+        "Famous Chias",
+        95
+    ],
+    [
+        "Famous Flotsams",
+        88
+    ],
+    [
+        "Famous Lennies",
+        88
+    ],
+    [
+        "Famous Moehogs",
+        80
+    ],
+    [
+        "Famous Tonu Ghosts",
+        80
+    ],
+    [
+        "Fantastic Faellies",
+        80
+    ],
+    [
+        "Fantastic Jhudora Stories",
+        89
+    ],
+    [
+        "Fashion For Krawks",
+        70
+    ],
+    [
+        "Favourite Elephante Recipes",
+        88
+    ],
+    [
+        "Feathered Friends",
+        60
+    ],
+    [
+        "Feed Koi",
+        180
+    ],
+    [
+        "Feeding Frenzy",
+        87
+    ],
+    [
+        "Feeding Lupes",
+        180
+    ],
+    [
+        "Feeding Your Elephante",
+        75
+    ],
+    [
+        "Fighting Fire with Fire",
+        92
+    ],
+    [
+        "Finding Illusen",
+        98
+    ],
+    [
+        "Finding That Bargain",
+        87
+    ],
+    [
+        "First Flight",
+        89
+    ],
+    [
+        "Fishing For Techos",
+        79
+    ],
+    [
+        "Five Minute Chokato Treats",
+        87
+    ],
+    [
+        "Flotsam Arts",
+        80
+    ],
+    [
+        "Flotsam Fables",
+        70
+    ],
+    [
+        "Flotsam Facts",
+        87
+    ],
+    [
+        "Flotsam Food",
+        86
+    ],
+    [
+        "Flotsam Legend",
+        85
+    ],
+    [
+        "Flotsam Party Ideas",
+        70
+    ],
+    [
+        "Flotsam Swimming Lessons",
+        55
+    ],
+    [
+        "Flotsam Treasure Seeking",
+        80
+    ],
+    [
+        "Flotsam Wok Recipes",
+        95
+    ],
+    [
+        "Flying For Eyries",
+        89
+    ],
+    [
+        "Forbidden Zafara",
+        99
+    ],
+    [
+        "Forever Ferny",
+        45
+    ],
+    [
+        "Forgotten Tome",
+        98
+    ],
+    [
+        "Fountain of Youth",
+        99
+    ],
+    [
+        "From Egg to Feathers",
+        65
+    ],
+    [
+        "Full Moon Fever",
+        180
+    ],
+    [
+        "Fun With Flotsams",
+        78
+    ],
+    [
+        "Fyoras Hair Care",
+        87
+    ],
+    [
+        "Galactic Adventures",
+        58
+    ],
+    [
+        "Gallery Of Toast",
+        97
+    ],
+    [
+        "Gardening For Gelerts",
+        89
+    ],
+    [
+        "Gathering Food Effectively",
+        75
+    ],
+    [
+        "Gebmids",
+        101
+    ],
+    [
+        "Gelert A to Z",
+        95
+    ],
+    [
+        "Gelert Anatomy",
+        88
+    ],
+    [
+        "Gelert Dental Care",
+        60
+    ],
+    [
+        "Gelert Paw Reading",
+        60
+    ],
+    [
+        "Geometry Level 1",
+        78
+    ],
+    [
+        "Geometry Level 2",
+        76
+    ],
+    [
+        "Geometry Level 3",
+        77
+    ],
+    [
+        "Get A Job",
+        87
+    ],
+    [
+        "Getting Better",
+        83
+    ],
+    [
+        "Ghost Stories",
+        89
+    ],
+    [
+        "Glowing Book",
+        97
+    ],
+    [
+        "Golden Shoyru Book",
+        180
+    ],
+    [
+        "Gourmet Bowl Tips",
+        89
+    ],
+    [
+        "Gourmet Cooking For Your Pet",
+        50
+    ],
+    [
+        "Grand Master",
+        90
+    ],
+    [
+        "Grarrg The Great",
+        78
+    ],
+    [
+        "Grarrl Comics",
+        60
+    ],
+    [
+        "Grarrl Keno",
+        75
+    ],
+    [
+        "Grarrl Mythology",
+        79
+    ],
+    [
+        "Grarrl Picture Book",
+        69
+    ],
+    [
+        "Great Grarrl Adventures",
+        70
+    ],
+    [
+        "Green Thumb Guide",
+        180
+    ],
+    [
+        "Grooming Habits",
+        80
+    ],
+    [
+        "Grooming Your Faellie",
+        68
+    ],
+    [
+        "Growling For Beginners",
+        88
+    ],
+    [
+        "Grundo Ballet",
+        60
+    ],
+    [
+        "Grundo Cafe Recipes",
+        90
+    ],
+    [
+        "Grundo Food",
+        50
+    ],
+    [
+        "Grundo Potions",
+        80
+    ],
+    [
+        "Grundo Surf Manual",
+        85
+    ],
+    [
+        "Gruslen Grooming",
+        89
+    ],
+    [
+        "Gruslen Pop-Up Book",
+        88
+    ],
+    [
+        "Gruslens Galore",
+        98
+    ],
+    [
+        "Guide to Bruces",
+        70
+    ],
+    [
+        "Guide to Knighthood",
+        101
+    ],
+    [
+        "Guide to Petpets",
+        89
+    ],
+    [
+        "Hanging Out",
+        89
+    ],
+    [
+        "Hannah and the Pirate Caves",
+        78
+    ],
+    [
+        "Happy Feet",
+        90
+    ],
+    [
+        "Happy Wocky Tails",
+        75
+    ],
+    [
+        "Harquins Day",
+        94
+    ],
+    [
+        "Harris Tales",
+        90
+    ],
+    [
+        "Hatching A Draik Egg",
+        87
+    ],
+    [
+        "Healing Koi",
+        180
+    ],
+    [
+        "Healthy Kyrii Treats",
+        89
+    ],
+    [
+        "Heroic Pteri Tales",
+        87
+    ],
+    [
+        "Hidden Tower Secrets",
+        98
+    ],
+    [
+        "Hilarious Chia Jokes",
+        88
+    ],
+    [
+        "History Of The Lost Desert",
+        89
+    ],
+    [
+        "History of the Meerca Boomerang",
+        85
+    ],
+    [
+        "Hocus Focus",
+        85
+    ],
+    [
+        "Hold Your Breath",
+        97
+    ],
+    [
+        "Home Surgery for Jetsams",
+        65
+    ],
+    [
+        "Hoppers Hayday",
+        70
+    ],
+    [
+        "How I Lost Me Leg",
+        70
+    ],
+    [
+        "How Purples Got Their Spots",
+        100
+    ],
+    [
+        "How To Be A Gormball Champ",
+        89
+    ],
+    [
+        "How to be a Model",
+        55
+    ],
+    [
+        "How To Catch A Cybunny",
+        50
+    ],
+    [
+        "How To Keep Korbats Happy",
+        76
+    ],
+    [
+        "How to Make A Pteri Plush Doll",
+        45
+    ],
+    [
+        "How to Make Papyrus",
+        69
+    ],
+    [
+        "How To Play Zurroball",
+        88
+    ],
+    [
+        "How to Ride a Bike",
+        72
+    ],
+    [
+        "How to Stay Fit",
+        60
+    ],
+    [
+        "Howling For Fun",
+        87
+    ],
+    [
+        "Hubrids Book of Death",
+        130
+    ],
+    [
+        "Hunting The Meerca Way",
+        95
+    ],
+    [
+        "I Love Moo-cee",
+        90
+    ],
+    [
+        "Illusens Illusion",
+        97
+    ],
+    [
+        "Illusens Ixi",
+        86
+    ],
+    [
+        "Illusens Journey",
+        96
+    ],
+    [
+        "Illusens Novel",
+        101
+    ],
+    [
+        "Illusens Scroll",
+        101
+    ],
+    [
+        "Im Not Angry",
+        45
+    ],
+    [
+        "Improving Your Hut",
+        80
+    ],
+    [
+        "In the Dark",
+        96
+    ],
+    [
+        "Inside the Mind of a Lupe",
+        180
+    ],
+    [
+        "Inside the Mind of Bob",
+        99
+    ],
+    [
+        "Interesting Ixi",
+        70
+    ],
+    [
+        "Intermediate Curses",
+        97
+    ],
+    [
+        "Interplanetary Communications",
+        100
+    ],
+    [
+        "It Came From Kreludor",
+        99
+    ],
+    [
+        "Its Aisha Time",
+        89
+    ],
+    [
+        "Ixi A-Z",
+        89
+    ],
+    [
+        "Ixi Heroes",
+        75
+    ],
+    [
+        "Ixi Pop-Up Book",
+        50
+    ],
+    [
+        "Jazzmosis Biography",
+        96
+    ],
+    [
+        "Jelly Processing Tips",
+        80
+    ],
+    [
+        "Jeran My Hero",
+        86
+    ],
+    [
+        "Jetsam Art",
+        76
+    ],
+    [
+        "Jetsam Style",
+        80
+    ],
+    [
+        "Jetsam Tall Tails",
+        89
+    ],
+    [
+        "Jetsam Teeth Maintenance",
+        86
+    ],
+    [
+        "Jetsam Warrior",
+        88
+    ],
+    [
+        "Jhudoras Quests",
+        90
+    ],
+    [
+        "Jokes To Make Skarl Laugh",
+        86
+    ],
+    [
+        "JubJub Day Ideas",
+        90
+    ],
+    [
+        "JubJub Hair Styling",
+        70
+    ],
+    [
+        "JubJub Jokes",
+        88
+    ],
+    [
+        "JubJub Journal",
+        93
+    ],
+    [
+        "JubJub Manual",
+        180
+    ],
+    [
+        "JubJub Natives",
+        80
+    ],
+    [
+        "JubJub Pop-Up Book",
+        60
+    ],
+    [
+        "JubJub Roll!",
+        180
+    ],
+    [
+        "JubJubs Day",
+        180
+    ],
+    [
+        "Jump Into the Future",
+        180
+    ],
+    [
+        "Jungle Survival Tips",
+        85
+    ],
+    [
+        "Just Rolling Along",
+        90
+    ],
+    [
+        "Kacheek Exercise",
+        87
+    ],
+    [
+        "Kacheek History",
+        89
+    ],
+    [
+        "Kacheek Horror",
+        89
+    ],
+    [
+        "Kacheek Magic",
+        93
+    ],
+    [
+        "Kacheek Secrets",
+        78
+    ],
+    [
+        "Kacheek Week",
+        89
+    ],
+    [
+        "Kacheeks Are Cool",
+        84
+    ],
+    [
+        "Kau Comics",
+        67
+    ],
+    [
+        "Kau Defence",
+        84
+    ],
+    [
+        "Kau Faerie Tales",
+        80
+    ],
+    [
+        "Kau Pies",
+        45
+    ],
+    [
+        "Kaus Guide to Better Grazing",
+        180
+    ],
+    [
+        "Kaylas Spellbook",
+        75
+    ],
+    [
+        "Keeping Peophin",
+        180
+    ],
+    [
+        "Keeping The Peace",
+        97
+    ],
+    [
+        "Keeping Your Krawk Happy",
+        90
+    ],
+    [
+        "Kiko - Fu",
+        180
+    ],
+    [
+        "Kiko Boo Boos",
+        89
+    ],
+    [
+        "Kiko Care",
+        180
+    ],
+    [
+        "Kiko Christmas Story",
+        89
+    ],
+    [
+        "Kiko Encyclopedia",
+        55
+    ],
+    [
+        "Kiko Food",
+        50
+    ],
+    [
+        "Kiko Food Guide",
+        70
+    ],
+    [
+        "Kiko Komics",
+        80
+    ],
+    [
+        "Kiko Pop-Up Book",
+        86
+    ],
+    [
+        "Kiko Treasure Island",
+        85
+    ],
+    [
+        "Kiko: Emperor of the Desert",
+        90
+    ],
+    [
+        "Kikos Darkside",
+        65
+    ],
+    [
+        "King Hagan",
+        90
+    ],
+    [
+        "King Kacheek",
+        85
+    ],
+    [
+        "King Skarl the I",
+        90
+    ],
+    [
+        "Kitchen Quest Cookbook",
+        101
+    ],
+    [
+        "Knights Of Meridell",
+        88
+    ],
+    [
+        "Know Your Collectable Cards",
+        50
+    ],
+    [
+        "Know Your Motes",
+        50
+    ],
+    [
+        "Know Your Neggs Book",
+        101
+    ],
+    [
+        "Know Your Robot Petpet",
+        100
+    ],
+    [
+        "Know Your Seeds",
+        72
+    ],
+    [
+        "Knowing Moehogs",
+        68
+    ],
+    [
+        "Koi Beauty Tips",
+        75
+    ],
+    [
+        "Koi Owners Manual",
+        180
+    ],
+    [
+        "Koi Pop-Up Book",
+        50
+    ],
+    [
+        "Koi Scales",
+        87
+    ],
+    [
+        "Koi Tales",
+        45
+    ],
+    [
+        "Korbat Calculus",
+        70
+    ],
+    [
+        "Korbat Games",
+        70
+    ],
+    [
+        "Korbat Halloween",
+        80
+    ],
+    [
+        "Korbats Lab Secrets",
+        90
+    ],
+    [
+        "Kougra Quotes",
+        84
+    ],
+    [
+        "Kougra Tales",
+        55
+    ],
+    [
+        "Koya Korbat Huntress",
+        100
+    ],
+    [
+        "Krawk Anthology",
+        80
+    ],
+    [
+        "Krawk Dental Care",
+        70
+    ],
+    [
+        "Krawk Fighting Techniques",
+        74
+    ],
+    [
+        "Krawk Karnage",
+        80
+    ],
+    [
+        "Krawk Pot Recipes",
+        90
+    ],
+    [
+        "Krawks I Have Known",
+        68
+    ],
+    [
+        "Krazy Krawks",
+        82
+    ],
+    [
+        "Kreludan Bed Time Stories",
+        40
+    ],
+    [
+        "Kreludan Cookie Book",
+        50
+    ],
+    [
+        "Kreludan Encyclopedia",
+        55
+    ],
+    [
+        "Kreludan Engineering",
+        100
+    ],
+    [
+        "Kreludan Facts",
+        50
+    ],
+    [
+        "Kreludan Fashion",
+        57
+    ],
+    [
+        "Kreludan Games",
+        70
+    ],
+    [
+        "Kreludan Physics",
+        70
+    ],
+    [
+        "Kreludan Poems",
+        70
+    ],
+    [
+        "Kreludan Recipes",
+        35
+    ],
+    [
+        "Kreludan Sundaes",
+        55
+    ],
+    [
+        "Kreludor Versus Neopia",
+        100
+    ],
+    [
+        "Kyrii ABCs",
+        76
+    ],
+    [
+        "Kyrii Country",
+        85
+    ],
+    [
+        "Kyrii Hair Styles",
+        78
+    ],
+    [
+        "Kyrii Shopping Guide",
+        83
+    ],
+    [
+        "Kyrii Tales",
+        85
+    ],
+    [
+        "Laws of the Land",
+        88
+    ],
+    [
+        "Le Blu",
+        83
+    ],
+    [
+        "Leaps and Bounds",
+        70
+    ],
+    [
+        "Learn Social Skills",
+        50
+    ],
+    [
+        "Learn to Fly",
+        60
+    ],
+    [
+        "Learn To Play Jazz",
+        72
+    ],
+    [
+        "Learn to Swim",
+        89
+    ],
+    [
+        "Learned Royalty",
+        92
+    ],
+    [
+        "Learning Kreludan",
+        78
+    ],
+    [
+        "Learning To Sing Notes",
+        89
+    ],
+    [
+        "Legend Of The Quiggle Runner",
+        95
+    ],
+    [
+        "Legendary Pteris",
+        89
+    ],
+    [
+        "Legendary Skeiths",
+        90
+    ],
+    [
+        "Legends of Maraqua",
+        76
+    ],
+    [
+        "Lennies in Love",
+        72
+    ],
+    [
+        "Lennies Who Lie",
+        89
+    ],
+    [
+        "Lenny Adventures",
+        87
+    ],
+    [
+        "Lenny Cookbook",
+        99
+    ],
+    [
+        "Lenny Fitness",
+        74
+    ],
+    [
+        "Lenny Love",
+        76
+    ],
+    [
+        "Lenny Magic",
+        71
+    ],
+    [
+        "Lenny Witchcraft",
+        99
+    ],
+    [
+        "Lets Play Deckball",
+        76
+    ],
+    [
+        "Library Tales",
+        70
+    ],
+    [
+        "Life After Cheat",
+        87
+    ],
+    [
+        "Life In the Citadel",
+        90
+    ],
+    [
+        "Life of a Clone",
+        79
+    ],
+    [
+        "Light of Day",
+        94
+    ],
+    [
+        "Lisha Of Meridell",
+        78
+    ],
+    [
+        "Little Book Of Big Volcanos",
+        180
+    ],
+    [
+        "Little book of puzzles",
+        60
+    ],
+    [
+        "Little Techo Book",
+        80
+    ],
+    [
+        "Little Timmys Story",
+        93
+    ],
+    [
+        "Little Wings Big Feet",
+        65
+    ],
+    [
+        "Locked Book",
+        180
+    ],
+    [
+        "Long Neck Lucy",
+        93
+    ],
+    [
+        "Looking Like A Moehog",
+        76
+    ],
+    [
+        "Lost Spells of Neopia",
+        89
+    ],
+    [
+        "Love and Caring",
+        80
+    ],
+    [
+        "Loyal Lupes",
+        60
+    ],
+    [
+        "Lucky Stars",
+        88
+    ],
+    [
+        "Lupe Digest",
+        98
+    ],
+    [
+        "Lupe Legends",
+        96
+    ],
+    [
+        "Lupe Meat Dishes",
+        80
+    ],
+    [
+        "Lupe Mysteries",
+        75
+    ],
+    [
+        "M*YNCI Fan Book",
+        85
+    ],
+    [
+        "Mage Spells",
+        97
+    ],
+    [
+        "Maggie the Meerca",
+        70
+    ],
+    [
+        "Magic for Beginners",
+        87
+    ],
+    [
+        "Magic Spells",
+        70
+    ],
+    [
+        "Malediction for Beginners",
+        99
+    ],
+    [
+        "Malkus Vile Book",
+        89
+    ],
+    [
+        "Manes",
+        84
+    ],
+    [
+        "Maps of Neopia",
+        65
+    ],
+    [
+        "Maraquan Bed Time Stories",
+        80
+    ],
+    [
+        "Maraquan Faerie Tales",
+        70
+    ],
+    [
+        "Mathematics In Space",
+        75
+    ],
+    [
+        "Maths Nightmare Tips",
+        80
+    ],
+    [
+        "Mazzew Grooming",
+        89
+    ],
+    [
+        "Medieval Dictionary",
+        79
+    ],
+    [
+        "Medieval Petpets",
+        89
+    ],
+    [
+        "Meerca Day Recipes",
+        87
+    ],
+    [
+        "Meerca Fashion Season 1",
+        78
+    ],
+    [
+        "Meerca Fashion Season 2",
+        89
+    ],
+    [
+        "Meerca Friends",
+        70
+    ],
+    [
+        "Meerca Paint Guide",
+        90
+    ],
+    [
+        "Meercas In Love",
+        98
+    ],
+    [
+        "Mercenaries for Hire",
+        80
+    ],
+    [
+        "Modern Lupe Magazine",
+        99
+    ],
+    [
+        "Modern Spells",
+        99
+    ],
+    [
+        "Moehog Comic",
+        67
+    ],
+    [
+        "Moehog Decorating Tips",
+        94
+    ],
+    [
+        "Moehog Masterpieces",
+        97
+    ],
+    [
+        "Moehog News",
+        88
+    ],
+    [
+        "Moehog Poetry",
+        70
+    ],
+    [
+        "Moon Missions",
+        60
+    ],
+    [
+        "Moon Rock Formations",
+        50
+    ],
+    [
+        "More Than Carrot Cake",
+        86
+    ],
+    [
+        "Mouldy Tome",
+        87
+    ],
+    [
+        "Mr Irgo Explained",
+        70
+    ],
+    [
+        "Mr X",
+        90
+    ],
+    [
+        "Murky Waters",
+        82
+    ],
+    [
+        "Mutations in Kacheeks",
+        88
+    ],
+    [
+        "My Eyrie Friend",
+        85
+    ],
+    [
+        "My Favourite Food",
+        60
+    ],
+    [
+        "My First Babaa",
+        89
+    ],
+    [
+        "My First Chia Book",
+        180
+    ],
+    [
+        "My First Mazzew",
+        86
+    ],
+    [
+        "My Garden Book",
+        66
+    ],
+    [
+        "My Hobby Book",
+        92
+    ],
+    [
+        "My Life As A Lenny",
+        98
+    ],
+    [
+        "My Neohome",
+        88
+    ],
+    [
+        "My Sweet Scorchio",
+        90
+    ],
+    [
+        "My Weekend With Lennies",
+        89
+    ],
+    [
+        "My Zafara and Me",
+        180
+    ],
+    [
+        "Mynci Banana Book",
+        85
+    ],
+    [
+        "Mynci Book of World Records",
+        90
+    ],
+    [
+        "Mynci Dance",
+        80
+    ],
+    [
+        "Mynci Horror",
+        89
+    ],
+    [
+        "Mynci Law",
+        86
+    ],
+    [
+        "Mynci Tails",
+        70
+    ],
+    [
+        "Mynci Wiggling Eyes Book",
+        75
+    ],
+    [
+        "Mystery Island Tour Guide",
+        80
+    ],
+    [
+        "Mystery Of Halloween",
+        87
+    ],
+    [
+        "Mystery Of The Kougra Paw",
+        80
+    ],
+    [
+        "Mystic Neggs Book",
+        101
+    ],
+    [
+        "Mythical Kyriis",
+        88
+    ],
+    [
+        "Nasty Lenny",
+        72
+    ],
+    [
+        "Native Nimmos",
+        83
+    ],
+    [
+        "Naughty or Nice",
+        89
+    ],
+    [
+        "Neggery Notes",
+        80
+    ],
+    [
+        "NeoFashion",
+        180
+    ],
+    [
+        "Neohomes and Gardens",
+        80
+    ],
+    [
+        "Neopia In Under 18NP A Day",
+        89
+    ],
+    [
+        "Neopian Encyclopedia A - E",
+        180
+    ],
+    [
+        "Neopian Encyclopedia F - J",
+        180
+    ],
+    [
+        "Neopian Encyclopedia K - O",
+        180
+    ],
+    [
+        "Neopian Encyclopedia P - T",
+        180
+    ],
+    [
+        "Neopian Encyclopedia U - Z",
+        180
+    ],
+    [
+        "Neopian Times Issue 3",
+        101
+    ],
+    [
+        "Neopias Past",
+        97
+    ],
+    [
+        "Nest Builders Manual",
+        50
+    ],
+    [
+        "Never Ending Faerie Tales",
+        80
+    ],
+    [
+        "Nimmo Anger Management",
+        80
+    ],
+    [
+        "Nimmo Battle Cry",
+        99
+    ],
+    [
+        "Nimmo Combat Guide",
+        60
+    ],
+    [
+        "Nimmo Explorations",
+        90
+    ],
+    [
+        "Nimmo Faerie Tales",
+        180
+    ],
+    [
+        "Nimmo Gift Ideas",
+        60
+    ],
+    [
+        "Nimmo Joe Book",
+        180
+    ],
+    [
+        "Nimmo Meditation",
+        75
+    ],
+    [
+        "Nimmo of Doom",
+        79
+    ],
+    [
+        "Nimmo Winter Tales",
+        78
+    ],
+    [
+        "Nimmo Yoga",
+        70
+    ],
+    [
+        "Nimmos Pond Guide Book",
+        92
+    ],
+    [
+        "No Bones About It",
+        89
+    ],
+    [
+        "Noil Colouring Book",
+        132
+    ],
+    [
+        "Nune",
+        86
+    ],
+    [
+        "Nuts, A Love Story",
+        89
+    ],
+    [
+        "Nutty The Turdle",
+        92
+    ],
+    [
+        "Nutz N Bolts",
+        80
+    ],
+    [
+        "Official Usukicon Y6 Guide Book",
+        180
+    ],
+    [
+        "Olde Zafara",
+        99
+    ],
+    [
+        "On The Trot",
+        88
+    ],
+    [
+        "On Tour with Chomby and the Fungus Balls",
+        90
+    ],
+    [
+        "Once Upon A Chia",
+        86
+    ],
+    [
+        "One Bad Bruce",
+        70
+    ],
+    [
+        "One Scary Night",
+        78
+    ],
+    [
+        "One Step Forward",
+        86
+    ],
+    [
+        "Ooga Book",
+        101
+    ],
+    [
+        "Oopsy Daisy",
+        180
+    ],
+    [
+        "Orange Central History",
+        55
+    ],
+    [
+        "Orange Grundo Survival Handbook",
+        38
+    ],
+    [
+        "Oranges Are Better",
+        55
+    ],
+    [
+        "Painting Poogles",
+        82
+    ],
+    [
+        "Patter Feet",
+        90
+    ],
+    [
+        "Pazo the Lonely Aisha",
+        24
+    ],
+    [
+        "Peopatras Petpets",
+        85
+    ],
+    [
+        "Peopatras Story",
+        88
+    ],
+    [
+        "Peophin Babies",
+        87
+    ],
+    [
+        "Peophin Legends",
+        86
+    ],
+    [
+        "Peophin MD",
+        180
+    ],
+    [
+        "Peophin Power!",
+        96
+    ],
+    [
+        "Petfolio",
+        99
+    ],
+    [
+        "Petpet Biology",
+        80
+    ],
+    [
+        "Picking Better Berries",
+        70
+    ],
+    [
+        "Picking The Perfect Carrot",
+        70
+    ],
+    [
+        "Playing with Fire",
+        35
+    ],
+    [
+        "Poetry For Peophins",
+        45
+    ],
+    [
+        "Poogle Day Ideas",
+        95
+    ],
+    [
+        "Poogle Mysteries",
+        80
+    ],
+    [
+        "Poogle Paw Prints",
+        79
+    ],
+    [
+        "Poogle Performers",
+        90
+    ],
+    [
+        "Poogle Plushie Catalogue",
+        89
+    ],
+    [
+        "Poogle Poetry",
+        80
+    ],
+    [
+        "Poogle Profile",
+        89
+    ],
+    [
+        "Poogle Races",
+        85
+    ],
+    [
+        "Pop-Up Skeith",
+        68
+    ],
+    [
+        "Pop-Up Zafara Book",
+        50
+    ],
+    [
+        "Popular Draik Names",
+        83
+    ],
+    [
+        "Popular Neopian Stories",
+        180
+    ],
+    [
+        "Potato Counting For Beginners",
+        80
+    ],
+    [
+        "Pox Curse",
+        101
+    ],
+    [
+        "Practical Repairs",
+        83
+    ],
+    [
+        "Pretty Peophins",
+        60
+    ],
+    [
+        "Princess Vyssas Diary",
+        99
+    ],
+    [
+        "Professional Curses",
+        99
+    ],
+    [
+        "Pteri Battle Manual",
+        67
+    ],
+    [
+        "Pteri Bust Out",
+        89
+    ],
+    [
+        "Pteri Feather Book",
+        80
+    ],
+    [
+        "Pteri Games",
+        68
+    ],
+    [
+        "Pteri Poetry",
+        92
+    ],
+    [
+        "Pteri Pop-Up Book",
+        98
+    ],
+    [
+        "Purple Chia Book",
+        101
+    ],
+    [
+        "Purple Lupe Photo Album",
+        94
+    ],
+    [
+        "Purple Power",
+        180
+    ],
+    [
+        "Quest Spells",
+        101
+    ],
+    [
+        "Quick Reference Dictionary",
+        60
+    ],
+    [
+        "Quiggle Adventures",
+        80
+    ],
+    [
+        "Quiggle Art Book",
+        63
+    ],
+    [
+        "Quiggle Classics",
+        88
+    ],
+    [
+        "Quiggle Facts",
+        72
+    ],
+    [
+        "Quiggle Food Guide",
+        70
+    ],
+    [
+        "Quiggle Joke Book",
+        62
+    ],
+    [
+        "Quiggle Poetry",
+        65
+    ],
+    [
+        "Quiggle Quotes",
+        60
+    ],
+    [
+        "Quiggle Stunt Book",
+        60
+    ],
+    [
+        "Quiggle Work Out",
+        64
+    ],
+    [
+        "Radio Active Pteri Part 1",
+        180
+    ],
+    [
+        "Rainbow Faerie Tales",
+        75
+    ],
+    [
+        "Rainbow Flotsam Stories",
+        86
+    ],
+    [
+        "Rainbow Painting",
+        70
+    ],
+    [
+        "Raising Baby Grundo",
+        101
+    ],
+    [
+        "Raising Grundos",
+        83
+    ],
+    [
+        "Raising Young Kau",
+        180
+    ],
+    [
+        "Rare and Retired Items",
+        90
+    ],
+    [
+        "Rare Stamps",
+        90
+    ],
+    [
+        "Repairing Your Petpets",
+        90
+    ],
+    [
+        "Repairing Your Ship",
+        45
+    ],
+    [
+        "Rial the Red",
+        83
+    ],
+    [
+        "Roars and Grrrs",
+        89
+    ],
+    [
+        "Robin Lupe",
+        55
+    ],
+    [
+        "Robot Days",
+        60
+    ],
+    [
+        "Robot Kougra Maintenance",
+        78
+    ],
+    [
+        "Ruffled Feathers",
+        80
+    ],
+    [
+        "Ruki Adventures",
+        87
+    ],
+    [
+        "Ruki Legends",
+        80
+    ],
+    [
+        "Ruki Survival Tips",
+        82
+    ],
+    [
+        "Ruling Faerieland",
+        89
+    ],
+    [
+        "Ruling The Universe",
+        101
+    ],
+    [
+        "Sad Peophin Stories",
+        48
+    ],
+    [
+        "Sakhmet Natives",
+        43
+    ],
+    [
+        "Sakhmet Petpets",
+        40
+    ],
+    [
+        "Sakhmet Tales",
+        32
+    ],
+    [
+        "Sarahs Guide To Neopia",
+        60
+    ],
+    [
+        "Saving Your Neopoints",
+        75
+    ],
+    [
+        "Scaled Magic Book",
+        180
+    ],
+    [
+        "Scaredy Acara",
+        180
+    ],
+    [
+        "Scary Peophin Tales",
+        65
+    ],
+    [
+        "Scary Sloth Stories",
+        80
+    ],
+    [
+        "Scenic Kreludan Views",
+        100
+    ],
+    [
+        "Scents Of The Skeith",
+        90
+    ],
+    [
+        "Scorch E O",
+        89
+    ],
+    [
+        "Scorchio Cook Book",
+        80
+    ],
+    [
+        "Scorchio Cooks",
+        75
+    ],
+    [
+        "Scorchio Defence",
+        92
+    ],
+    [
+        "Scorchio Scrapbook",
+        78
+    ],
+    [
+        "Scorchio Summer",
+        88
+    ],
+    [
+        "Scouting For Korbats",
+        88
+    ],
+    [
+        "Scratchcard Secrets",
+        82
+    ],
+    [
+        "Secret Bruce Journal",
+        90
+    ],
+    [
+        "Secret Faerie Diary",
+        98
+    ],
+    [
+        "Secrets of the Desert PaintBrush",
+        92
+    ],
+    [
+        "Senator Barca Book",
+        80
+    ],
+    [
+        "Shadow Usul Stories",
+        99
+    ],
+    [
+        "Shiny Scales",
+        70
+    ],
+    [
+        "Shop Wizard Tips",
+        70
+    ],
+    [
+        "Showing Gelerts",
+        84
+    ],
+    [
+        "Shoyru Heroes",
+        66
+    ],
+    [
+        "Shoyru Mysteries",
+        83
+    ],
+    [
+        "Shoyru Songs",
+        60
+    ],
+    [
+        "Shoyru Summer",
+        78
+    ],
+    [
+        "Shoyru Surprise",
+        55
+    ],
+    [
+        "Sick Kyrii",
+        55
+    ],
+    [
+        "Sick of Spots",
+        80
+    ],
+    [
+        "Simple Spells",
+        70
+    ],
+    [
+        "Sinsis Puzzle Book",
+        90
+    ],
+    [
+        "Skeith Defender Comics",
+        84
+    ],
+    [
+        "Skeith Flying",
+        83
+    ],
+    [
+        "Skeith Magic",
+        70
+    ],
+    [
+        "Skeith Prints",
+        87
+    ],
+    [
+        "Skies Above Tyrannia",
+        90
+    ],
+    [
+        "Skyward an Eyries Guide to Flying",
+        87
+    ],
+    [
+        "Smooth Jazz Tunes",
+        78
+    ],
+    [
+        "Snow Faerie Book",
+        82
+    ],
+    [
+        "Snowager Saga",
+        101
+    ],
+    [
+        "Snowy - A White Kougra Story",
+        70
+    ],
+    [
+        "Solid Steel Book",
+        180
+    ],
+    [
+        "Something Fishy",
+        80
+    ],
+    [
+        "Soup Faerie Book",
+        80
+    ],
+    [
+        "Space and Magic",
+        96
+    ],
+    [
+        "Space Faerie Tales",
+        101
+    ],
+    [
+        "Space Mynci",
+        89
+    ],
+    [
+        "Speak Moehog",
+        65
+    ],
+    [
+        "Speak Tyrannian",
+        87
+    ],
+    [
+        "Spooky Food Ideas",
+        76
+    ],
+    [
+        "Spooky Kau Story",
+        80
+    ],
+    [
+        "Spooky Korbat Stories",
+        75
+    ],
+    [
+        "Spooky Stories",
+        67
+    ],
+    [
+        "Spooky Usul Stories",
+        96
+    ],
+    [
+        "Spotting Seaweed",
+        94
+    ],
+    [
+        "Springy Gelert Book",
+        50
+    ],
+    [
+        "Squeaky Elephante Book",
+        60
+    ],
+    [
+        "Stampede Tips",
+        85
+    ],
+    [
+        "Star Gazing",
+        101
+    ],
+    [
+        "Stripe, the Strange Skeith",
+        75
+    ],
+    [
+        "Striped Elephante Pop-Up Book",
+        89
+    ],
+    [
+        "Super Fashion Playmate Handbook",
+        80
+    ],
+    [
+        "Super Lupe Comics",
+        96
+    ],
+    [
+        "Super Roo - The Comic",
+        86
+    ],
+    [
+        "Tail Tales",
+        79
+    ],
+    [
+        "Talk Tuska",
+        78
+    ],
+    [
+        "Talons and Tails",
+        85
+    ],
+    [
+        "Taming The Hair",
+        83
+    ],
+    [
+        "Tear Jerkers",
+        80
+    ],
+    [
+        "Techo Battle Tactics",
+        82
+    ],
+    [
+        "Techo Dance",
+        75
+    ],
+    [
+        "Techo Guide to Weapons",
+        80
+    ],
+    [
+        "Techo in Love",
+        76
+    ],
+    [
+        "Techo Master Tactics",
+        89
+    ],
+    [
+        "Techo Mountain",
+        87
+    ],
+    [
+        "Techo Says - The Book",
+        65
+    ],
+    [
+        "Techo Secret Journal",
+        89
+    ],
+    [
+        "Techo Style",
+        79
+    ],
+    [
+        "Techo Yoga",
+        74
+    ],
+    [
+        "Teeth Sharpening Techniques",
+        80
+    ],
+    [
+        "Terrific Acaras",
+        60
+    ],
+    [
+        "The Abandoned Acara",
+        180
+    ],
+    [
+        "The Angry Chomby",
+        180
+    ],
+    [
+        "The Angry Grundo",
+        80
+    ],
+    [
+        "The Angry Kau",
+        64
+    ],
+    [
+        "The Art Of Cybunnies",
+        180
+    ],
+    [
+        "The Art of Sword Fighting",
+        73
+    ],
+    [
+        "The Bad Skeith",
+        99
+    ],
+    [
+        "The Beautiful Shoyru",
+        85
+    ],
+    [
+        "The Big Blue Blumaroo Book",
+        30
+    ],
+    [
+        "The Big Book of Karma",
+        77
+    ],
+    [
+        "The Book of Ice",
+        80
+    ],
+    [
+        "The Bori Handbook",
+        85
+    ],
+    [
+        "The Bruce Book",
+        85
+    ],
+    [
+        "The Chomby Champion",
+        92
+    ],
+    [
+        "The Chomby Fight",
+        45
+    ],
+    [
+        "The Chomby Secret",
+        95
+    ],
+    [
+        "The Complete History of Wockies",
+        89
+    ],
+    [
+        "The Confused Mynci",
+        89
+    ],
+    [
+        "The Cowardly Tuskaninny",
+        35
+    ],
+    [
+        "The Curious Quiggle",
+        80
+    ],
+    [
+        "The Curse Of The Pirate Aisha",
+        82
+    ],
+    [
+        "The Elephante Encyclopedia",
+        85
+    ],
+    [
+        "The End of the Tunnel",
+        60
+    ],
+    [
+        "The Evil Slorg",
+        101
+    ],
+    [
+        "The Eye of the Quiggle",
+        61
+    ],
+    [
+        "The Eyrie Guard",
+        97
+    ],
+    [
+        "The Female Nimmo Ranger",
+        70
+    ],
+    [
+        "The Fire Shoyru",
+        88
+    ],
+    [
+        "The Flotsam Raiders",
+        89
+    ],
+    [
+        "The Giggling Quiggle",
+        101
+    ],
+    [
+        "The Grand Usul Adventure",
+        90
+    ],
+    [
+        "The Grarrl Who Crushed Tyrannia",
+        50
+    ],
+    [
+        "The Great Chomby",
+        180
+    ],
+    [
+        "The Great Cybunny Theft",
+        65
+    ],
+    [
+        "The Great Kau Caper",
+        70
+    ],
+    [
+        "The Great Vacation",
+        88
+    ],
+    [
+        "The Green Book",
+        57
+    ],
+    [
+        "The Green Grundo Invasion",
+        100
+    ],
+    [
+        "The Grizzly Gruslen",
+        96
+    ],
+    [
+        "The Grumpy Acara",
+        60
+    ],
+    [
+        "The Grumpy Grundo",
+        86
+    ],
+    [
+        "The Grundo Pirate",
+        88
+    ],
+    [
+        "The Happy Blumaroo",
+        180
+    ],
+    [
+        "The Happy Buzz",
+        96
+    ],
+    [
+        "The Healing Springs",
+        80
+    ],
+    [
+        "The History Of Meridell",
+        90
+    ],
+    [
+        "The Hot Scorchio Cook Book",
+        93
+    ],
+    [
+        "The Hungry Grarrl",
+        87
+    ],
+    [
+        "The Hungry Techo",
+        70
+    ],
+    [
+        "The Island Of Kacheeks",
+        98
+    ],
+    [
+        "The Ixi Adventure",
+        70
+    ],
+    [
+        "The Ixi Book",
+        87
+    ],
+    [
+        "The Jetsam Ace",
+        73
+    ],
+    [
+        "The Jovial Jetsam",
+        79
+    ],
+    [
+        "The Joy Of Metal Work",
+        82
+    ],
+    [
+        "The JubJub Club",
+        89
+    ],
+    [
+        "The JubJubs Secret",
+        90
+    ],
+    [
+        "The Kau Cookbook",
+        68
+    ],
+    [
+        "The Kau Files",
+        75
+    ],
+    [
+        "The Korbat From Krawk Island",
+        89
+    ],
+    [
+        "The Korbat Researcher",
+        92
+    ],
+    [
+        "The Korbat Who Couldnt Hang",
+        75
+    ],
+    [
+        "The Kreludan Flag",
+        35
+    ],
+    [
+        "The Kyrii Dancer",
+        80
+    ],
+    [
+        "The Last Kau",
+        70
+    ],
+    [
+        "The Legend of Count von Roo",
+        68
+    ],
+    [
+        "The Legend of Ishtar",
+        80
+    ],
+    [
+        "The Legendary Sutek Scroll",
+        99
+    ],
+    [
+        "The Little Book Of Bruce",
+        83
+    ],
+    [
+        "The Little Kacheek Book",
+        80
+    ],
+    [
+        "The Little Scorchio",
+        70
+    ],
+    [
+        "The Littlest Elephante",
+        80
+    ],
+    [
+        "The Littlest Mazzew",
+        87
+    ],
+    [
+        "The Lone Quiggle",
+        60
+    ],
+    [
+        "The Lone Ruki",
+        85
+    ],
+    [
+        "The Lonely Elephante",
+        50
+    ],
+    [
+        "The Lonely Grundo",
+        60
+    ],
+    [
+        "The Lonely JubJub",
+        94
+    ],
+    [
+        "The Lost Grundo",
+        90
+    ],
+    [
+        "The Lost Kau",
+        66
+    ],
+    [
+        "The Love Buzz",
+        80
+    ],
+    [
+        "The Luckiest Babaa",
+        85
+    ],
+    [
+        "The Lupe Pack",
+        70
+    ],
+    [
+        "The Macho Kyrii",
+        50
+    ],
+    [
+        "The Magic Paw",
+        50
+    ],
+    [
+        "The Magic Staff",
+        99
+    ],
+    [
+        "The Magic Whirlpool",
+        80
+    ],
+    [
+        "The Mane Event",
+        80
+    ],
+    [
+        "The Meerca Spy",
+        80
+    ],
+    [
+        "The Meercas Bad Day",
+        50
+    ],
+    [
+        "The Midnight Moehog",
+        93
+    ],
+    [
+        "The Mighty Blumaroo",
+        45
+    ],
+    [
+        "The Missing Koi",
+        90
+    ],
+    [
+        "The Mover",
+        60
+    ],
+    [
+        "The Naughty Skeith",
+        88
+    ],
+    [
+        "The Nimmo Ranger",
+        89
+    ],
+    [
+        "The Nose Knows",
+        70
+    ],
+    [
+        "The Pea From Outer Space",
+        95
+    ],
+    [
+        "The Pineapple Chia",
+        90
+    ],
+    [
+        "The Plushie Skeith",
+        90
+    ],
+    [
+        "The Pterrible Pteri",
+        75
+    ],
+    [
+        "The Quiggle Knight",
+        80
+    ],
+    [
+        "The Rainbow Fountain",
+        89
+    ],
+    [
+        "The Rainbow Gelert",
+        83
+    ],
+    [
+        "The Rainbow Pool",
+        90
+    ],
+    [
+        "The Red Kiko",
+        79
+    ],
+    [
+        "The Red Paw",
+        90
+    ],
+    [
+        "The Red Wocky Cook Book",
+        85
+    ],
+    [
+        "The Sad Shoyru",
+        70
+    ],
+    [
+        "The Sad Wocky",
+        80
+    ],
+    [
+        "The Secret Behind The Jewel",
+        79
+    ],
+    [
+        "The Secret Chomby",
+        70
+    ],
+    [
+        "The Secret Journal of Agent A",
+        84
+    ],
+    [
+        "The Secret of Tagobo",
+        88
+    ],
+    [
+        "The Shadow Usul",
+        99
+    ],
+    [
+        "The Shoy",
+        90
+    ],
+    [
+        "The Snow Aisha Adventure",
+        77
+    ],
+    [
+        "The Spectre Legacy",
+        92
+    ],
+    [
+        "The Split Flotsam",
+        82
+    ],
+    [
+        "The Spotted Flotsam",
+        90
+    ],
+    [
+        "The Techo Adept",
+        85
+    ],
+    [
+        "The Techo Cookbook",
+        76
+    ],
+    [
+        "The Techos Echo",
+        87
+    ],
+    [
+        "The Threat Outside",
+        45
+    ],
+    [
+        "The Tournament Handbook",
+        101
+    ],
+    [
+        "The Tricky Ixi",
+        70
+    ],
+    [
+        "The Uni Trilogy",
+        88
+    ],
+    [
+        "The Unlucky Blumaroo",
+        55
+    ],
+    [
+        "The Usuls Almanac",
+        79
+    ],
+    [
+        "The Voodoo Techo",
+        99
+    ],
+    [
+        "The Way of the Draik",
+        96
+    ],
+    [
+        "The Wise Cybunny",
+        80
+    ],
+    [
+        "The Wonder Of Toast",
+        88
+    ],
+    [
+        "The Wonders of Water",
+        58
+    ],
+    [
+        "The Yurble Spy",
+        89
+    ],
+    [
+        "The Zombie Chomby",
+        97
+    ],
+    [
+        "Theories of Physics",
+        101
+    ],
+    [
+        "This Is Nuts",
+        80
+    ],
+    [
+        "Time To Fly",
+        80
+    ],
+    [
+        "Time Travel",
+        180
+    ],
+    [
+        "Tis Be Harvesting Time",
+        90
+    ],
+    [
+        "To Beak or Not to Beak",
+        90
+    ],
+    [
+        "Toast Tasting",
+        93
+    ],
+    [
+        "Toast Treats",
+        86
+    ],
+    [
+        "Tome of Selket",
+        23
+    ],
+    [
+        "Tome of Tonu",
+        80
+    ],
+    [
+        "Tonu Steps",
+        85
+    ],
+    [
+        "Tonu Tails",
+        90
+    ],
+    [
+        "Tonu Talk",
+        85
+    ],
+    [
+        "Tonu Tusk Polishing",
+        89
+    ],
+    [
+        "Too Hot",
+        82
+    ],
+    [
+        "Tooth Faerie Book",
+        85
+    ],
+    [
+        "Train Koi",
+        180
+    ],
+    [
+        "Training Your Flotsam",
+        85
+    ],
+    [
+        "Training Your Moehog",
+        45
+    ],
+    [
+        "Traversing The Moon",
+        50
+    ],
+    [
+        "Trectse fo Thade",
+        89
+    ],
+    [
+        "Tree Homes",
+        70
+    ],
+    [
+        "Tree Magic",
+        101
+    ],
+    [
+        "Trick-or-Treat Tips",
+        80
+    ],
+    [
+        "Trigonometry Hyperbolics",
+        99
+    ],
+    [
+        "Tropical Flora and Fauna",
+        92
+    ],
+    [
+        "Trumpet Lessons",
+        70
+    ],
+    [
+        "Turmac Snacks",
+        88
+    ],
+    [
+        "Tusk Care For Moehogs",
+        88
+    ],
+    [
+        "Tuskaninny Grooming",
+        87
+    ],
+    [
+        "Tuskaninny Treasure",
+        89
+    ],
+    [
+        "Two Tuskaninnies",
+        86
+    ],
+    [
+        "Tying Your Bow",
+        80
+    ],
+    [
+        "Tyragh the Terrible",
+        70
+    ],
+    [
+        "Tyrannian Time Travel",
+        101
+    ],
+    [
+        "Undiscovered Treasure",
+        101
+    ],
+    [
+        "Unhappy Tails",
+        88
+    ],
+    [
+        "Uni Battle!",
+        80
+    ],
+    [
+        "Uni Beauty Manual",
+        87
+    ],
+    [
+        "Uni Care",
+        89
+    ],
+    [
+        "Uni Days",
+        89
+    ],
+    [
+        "Uni in Wonderland",
+        87
+    ],
+    [
+        "Uni Myths",
+        99
+    ],
+    [
+        "Unleashed - The Great Lupe Escape",
+        93
+    ],
+    [
+        "Unofficial Usukicon Y6 Guide Book",
+        180
+    ],
+    [
+        "Usuki Collectors Guide",
+        55
+    ],
+    [
+        "Usul Bedtime Stories",
+        75
+    ],
+    [
+        "Usul Health",
+        92
+    ],
+    [
+        "Usul Investigations",
+        94
+    ],
+    [
+        "Usul Skiing Tips",
+        79
+    ],
+    [
+        "Usul Stories for Rainy Days",
+        78
+    ],
+    [
+        "Vengeful Scroll",
+        99
+    ],
+    [
+        "Victory Is Ours",
+        35
+    ],
+    [
+        "Vile Curse of Pestilence",
+        99
+    ],
+    [
+        "Vile Scroll of Possession",
+        99
+    ],
+    [
+        "Visiting Kreludor",
+        88
+    ],
+    [
+        "Watch Out!",
+        50
+    ],
+    [
+        "Weight Lifting for Jetsams",
+        70
+    ],
+    [
+        "What A Wonderful Day",
+        80
+    ],
+    [
+        "What Me Cheat",
+        90
+    ],
+    [
+        "When All Else Fails...",
+        92
+    ],
+    [
+        "When Bruces Fly",
+        87
+    ],
+    [
+        "When Gelerts Go Bad",
+        85
+    ],
+    [
+        "When the Wind Blows",
+        88
+    ],
+    [
+        "When Your Meercas Hurt",
+        180
+    ],
+    [
+        "Where Neggs Grow",
+        101
+    ],
+    [
+        "Where The Elephantes Roam",
+        77
+    ],
+    [
+        "Wheres My Mummy",
+        80
+    ],
+    [
+        "Which Brush?",
+        87
+    ],
+    [
+        "Whinny Meadows",
+        89
+    ],
+    [
+        "Whiplash",
+        79
+    ],
+    [
+        "Win!",
+        78
+    ],
+    [
+        "Wings of Steel",
+        90
+    ],
+    [
+        "Wings Over the World",
+        90
+    ],
+    [
+        "Winter Usul Wear",
+        81
+    ],
+    [
+        "Wishing On A Star",
+        60
+    ],
+    [
+        "Witch Hunting Techniques",
+        85
+    ],
+    [
+        "Witchcraft Spells",
+        83
+    ],
+    [
+        "Wocky Cookies",
+        80
+    ],
+    [
+        "Wocky Hide and Seek Book",
+        89
+    ],
+    [
+        "Wocky Jewellery",
+        75
+    ],
+    [
+        "Wocky Long Jumping",
+        79
+    ],
+    [
+        "Wocky Lullaby",
+        80
+    ],
+    [
+        "Wocky Magic",
+        90
+    ],
+    [
+        "Wocky Secrets",
+        82
+    ],
+    [
+        "Wocky Tails",
+        88
+    ],
+    [
+        "Wocky Will",
+        85
+    ],
+    [
+        "Wonder Koi",
+        80
+    ],
+    [
+        "Wonderful World of Gardening",
+        45
+    ],
+    [
+        "Yellow Tuskaninny Book",
+        80
+    ],
+    [
+        "You and Your Faerie Korbat",
+        85
+    ],
+    [
+        "You Will Get Verrucas!",
+        99
+    ],
+    [
+        "Youve Been Hexed!",
+        99
+    ],
+    [
+        "Yurble Adventures",
+        88
+    ],
+    [
+        "Yurble Manual",
+        80
+    ],
+    [
+        "Yurble Tales",
+        86
+    ],
+    [
+        "Z Is For Zafara",
+        70
+    ],
+    [
+        "Zafara Art",
+        89
+    ],
+    [
+        "Zafara Crossword Puzzles",
+        75
+    ],
+    [
+        "Zafara Detective",
+        80
+    ],
+    [
+        "Zafara Lore",
+        98
+    ],
+    [
+        "Zafara Music",
+        67
+    ],
+    [
+        "Zafara Mystery Collection",
+        99
+    ],
+    [
+        "Zafara War",
+        98
+    ],
+    [
+        "Zafaras Rainy Day",
+        70
+    ],
+    [
+        "Zombie Unis",
+        72
+    ]
 ]
