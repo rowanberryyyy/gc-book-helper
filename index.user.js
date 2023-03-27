@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-const booksUrl = `https://raw.githubusercontent.com/windupbird144/gc-book-helper/main/books.json`
+const booksUrl = `https://raw.githubusercontent.com/rowanberryyyy/gc-book-helper/main/books.json`
 
 /**
  * Analyse the document to find out which books your pet has read
