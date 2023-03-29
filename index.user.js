@@ -5,6 +5,7 @@
 // @description  Show unread books on your pet's book page
 // @author       You
 // @match        https://www.grundos.cafe/books_read/?pet_name=*
+// @match        https://grundos.cafe/books_read/?pet_name=*
 // @icon         https://www.grundos.cafe/static/images/favicon.66a6c5f11278.ico
 // @grant        none
 // ==/UserScript==
