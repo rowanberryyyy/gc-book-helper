@@ -38,7 +38,7 @@ const filterReadBooks = (listOfBooks, booksRead) => {
 const byRarity = ([_,rarity1],[__,rarity2]) => rarity1 - rarity2
 
 const html = (books) => `<div class="books-to-read" style="padding-left: 2em;">
-<h3 style="text-align: center">Your pet has ${books.length} books left read!</h3>
+<h3 style="text-align: center">Your pet has ${books.length} books left to read!</h3>
 <ul style="columns: 2">
 ${
     books.sort(byRarity).map(([name, rarity]) => `<li><span style="user-select:all">${name}</span> (<b>r${rarity})</b></li>`).join("")
