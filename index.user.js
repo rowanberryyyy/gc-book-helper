@@ -37,14 +37,19 @@ const filterReadBooks = (listOfBooks, booksRead) => {
 // callback to sort books by rarity by rarity
 const byRarity = ([_,rarity1],[__,rarity2]) => rarity1 - rarity2
 
-const html = (books) => `<div class="books-to-read" style="padding-left: 2em;">
+const html = (books) => `<div class="books-to-read" style="line-height: 20px; padding-left: 2em;">
 <h3 style="text-align: center">Your pet has ${books.length} books left to read!</h3>
 <ul style="columns: 2">
 ${
-    books.sort(byRarity).map(([name, rarity]) => `<li><span style="user-select:all">${name}</span> (<b>r${rarity})</b></li>`).join("")
+    books.sort(byRarity).map(([name, rarity]) => `<li><span style="user-select:all">${name}</span> (<b>r${rarity})</b>
+    <a href="/market/wizard/?query=${name}" target="_bookSearch"><img width="15px" src="https://s3.us-west-2.amazonaws.com/cdn.grundos.cafe/misc/wiz.png"></a>
+    <a href="/island/tradingpost/browse/?query=${name}" target="_bookSearch"><img width="15px" src="https://s3.us-west-2.amazonaws.com/cdn.grundos.cafe/misc/tp.png"></a>
+    </li>`).join("")
 }
 </ul>
 </div>`;
+
+//Ty Riz for the SW/TP add-on!
 
 async function main() {
     const listOfBooks = await fetch(booksUrl).then(res => res.json())
