@@ -276,6 +276,10 @@
         80
     ],
     [
+        "Beak Shining",
+        80
+    ],
+    [
         "Beating Sloth",
         99
     ],
@@ -468,12 +472,20 @@
         90
     ],
     [
+        "Chef Grarrl",
+        80
+    ],
+    [
         "Chia Art History",
         99
     ],
     [
         "Chia Book",
         88
+    ],
+    [
+        "Chia Journal",
+        80
     ],
     [
         "Chia Quotes",
@@ -522,6 +534,10 @@
     [
         "Cloud Usul Book",
         101
+    ],
+    [
+        "Clowning Around",
+        88
     ],
     [
         "Compost Dung Right",
@@ -676,6 +692,14 @@
         90
     ],
     [
+        "Draik Magic",
+        93
+    ],
+    [
+        "Draik Tales",
+        94
+    ],
+    [
         "Drawing Kiko",
         40
     ],
@@ -718,6 +742,10 @@
     [
         "Extreme Ixi",
         80
+    ],
+    [
+        "Eye Of The Grarrl",
+        90
     ],
     [
         "Eye-Sha",
@@ -928,8 +956,16 @@
         90
     ],
     [
+        "Grarrg the Great",
+        78
+    ],
+    [
         "Grarrl Comics",
         60
+    ],
+    [
+        "Grarrl Keno",
+        75
     ],
     [
         "Grarrl Mythology",
@@ -1528,6 +1564,10 @@
         80
     ],
     [
+        "My First Chia Book",
+        99
+    ],
+    [
         "My First Faerie",
         80
     ],
@@ -1728,6 +1768,10 @@
         40
     ],
     [
+        "Painting Poogles",
+        82
+    ],
+    [
         "Pandaphants",
         101
     ],
@@ -1762,6 +1806,14 @@
     [
         "Poogle Pages",
         99
+    ],
+    [
+        "Poogle Profile",
+        89
+    ],
+    [
+        "Poogle Races",
+        85
     ],
     [
         "Pop-Up Skeith",
@@ -1894,6 +1946,10 @@
     [
         "Rial the Red",
         83
+    ],
+    [
+        "Roars and Grrrs",
+        89
     ],
     [
         "Robin Lupe",
@@ -2060,8 +2116,20 @@
         48
     ],
     [
+        "Skeith Defender Comics",
+        84
+    ],
+    [
+        "Skeith Flying",
+        83
+    ],
+    [
         "Skeith Magic",
         70
+    ],
+    [
+        "Skeith Prints",
+        87
     ],
     [
         "Slimy Bog Scroll",
@@ -2568,6 +2636,10 @@
         101
     ],
     [
+        "The Pineapple Chia",
+        90
+    ],
+    [
         "The Pink Kacheek",
         101
     ],
@@ -2578,6 +2650,10 @@
     [
         "The Plushie Krawk Book",
         78
+    ],
+    [
+        "The Plushie Skeith",
+        90
     ],
     [
         "The Polarchuck and the Snow Storm",
@@ -2978,78 +3054,6 @@
     [
         "Zafara War",
         98
-    ],
-    [
-        "Chef Grarrl",
-        80
-    ],
-    [
-        "Eye of Grarrl",
-        90
-    ],
-    [
-        "Grarrl Keno",
-        75
-    ],
-    [
-        "Grarrg The Great",
-        78
-    ],
-    [
-        "Roars and Grrrs",
-        89
-    ],
-    [
-        "Skeith Defender Comics",
-        84
-    ],
-    [
-        "Skeith Flying",
-        83
-    ],
-    [
-        "Skeith Prints",
-        87
-    ],
-    [
-        "The Plushie Skeith",
-        90
-    ],
-    [
-        "Painting Poogles",
-        82
-    ],
-    [
-        "Poogle Profile",
-        89
-    ],
-    [
-        "Poogle Races",
-        85
-    ],
-    [
-        "Chia Journal",
-        80
-    ],
-    [
-        "The Pineapple Chia",
-        90
-    ],
-    [
-        "Clowning Around",
-        88
-    ],
-    [
-        "My First Chia Book",
-        99
-    ],
-    [
-        "Draik Magic",
-        93
-    ],
-    [
-        "Draik Tales",
-        94
     ],
     [
         "Zafaras Rainy Day",
