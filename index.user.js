@@ -9,8 +9,8 @@
 // @icon         https://www.grundos.cafe/static/images/favicon.66a6c5f11278.ico
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
-// @downloadURL  https://update.greasyfork.org/scripts/464937/Grundo%27s%20Cafe%20Book%20Helper.user.js
-// @updateURL    https://update.greasyfork.org/scripts/464937/Grundo%27s%20Cafe%20Book%20Helper.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/464937/Grundo%27s%20Cafe%20Book%20Helper.user.js
+// @updateURL https://update.greasyfork.org/scripts/464937/Grundo%27s%20Cafe%20Book%20Helper.meta.js
 // ==/UserScript==
 /* globals $ */
 
@@ -76,7 +76,7 @@ let customCSS = `
     width: 95%;
 }
 .booklist li:nth-of-type(2n) {
-    background: #d3d3d3;
+    background: var(--grid_select);
 }
 `;
 
