@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Grundo's Cafe Book Helper
 // @namespace    github.com/windupbird144/
-// @version      0.6
+// @version      0.9
 // @description  Show unread books on your pet's book page
 // @author       You
 // @match        https://www.grundos.cafe/books_read/?pet_name=*
 // @match        https://grundos.cafe/books_read/?pet_name=*
-// @icon         https://www.grundos.cafe/static/images/favicon.66a6c5f11278.ico
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=grundos.cafe
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
 // @downloadURL https://update.greasyfork.org/scripts/464937/Grundo%27s%20Cafe%20Book%20Helper.user.js
@@ -27,7 +27,7 @@ const booksUrl = `https://raw.githubusercontent.com/rowanberryyyy/gc-book-helper
  * @returns string[] title of book your pets has read
  */
 const getReadBooks = () =>
-    Array.from(document.querySelectorAll(".center > table > tbody > tr:nth-of-type(n+2)")).map(e => e.childNodes[3].childNodes[0].textContent.trim().replace(" (","").toUpperCase())
+    Array.from(document.querySelectorAll(".center > table > tbody > tr:nth-of-type(n+1)")).map(e => e.childNodes[3].childNodes[0].textContent.trim().replace(" (","").toUpperCase())
 
 /**
  * Return a list of books your pet has not read
@@ -46,7 +46,7 @@ const filterReadBooks = (listOfBooks, booksRead) => {
 const byRarity = ([_, rarity1], [__, rarity2]) => rarity1 - rarity2;
 
 const html = (books) => `
-<div class="center"><p><button id='viewbooks'>Your pet has ${books.length} books left to read!</button></p></div>
+<div class="bookbutton"><p><button id='viewbooks'>Your pet has ${books.length} books left to read!</button></p></div>
 <div id="books-to-read" style="display:none">
     <div class="booklist">
     <ul>
@@ -64,6 +64,9 @@ const html = (books) => `
 
 // Append CSS to the page
 let customCSS = `
+.bookbutton {
+    margin: auto;
+}
 .booklist {
     height: 800px;
     overflow: auto;
@@ -87,7 +90,7 @@ $("<style>").prop("type", "text/css").html(customCSS).appendTo("head");
 async function main() {
     const listOfBooks = await fetch(booksUrl).then(res => res.json());
     const toRead = filterReadBooks(listOfBooks, getReadBooks());
-    $(".content").before(html(toRead));
+    $(".center > table").before(html(toRead));
 
     // Attach the toggleBooks function to the button click event
     $("#viewbooks").on("click", toggleBooks);
