@@ -917,7 +917,7 @@
     ],
     [
         "Cotton Tales",
-        180
+        68
     ],
     [
         "Counting Potatoes",
@@ -1772,8 +1772,16 @@
         74
     ],
     [
+        "Hissi Mazes",
+        78
+    ],
+    [
         "Hissi Secrets",
         80
+    ],
+    [
+        "Hissi Stories",
+        79
     ],
     [
         "History of the Brightvale Book Shop",
@@ -2734,6 +2742,10 @@
     [
         "My Life As A Lenny",
         98
+    ],
+    [
+        "My Life As A Sponge",
+        87
     ],
     [
         "My Life At Sea",
@@ -4320,6 +4332,10 @@
         88
     ],
     [
+        "The Lupe Pack",
+        70
+    ],
+    [
         "The Macho Kyrii",
         50
     ],
@@ -4338,6 +4354,10 @@
     [
         "The Meercas Bad Day",
         50
+    ],
+    [
+        "The Midnight Moehog",
+        93
     ],
     [
         "The Mighty Blumaroo",
